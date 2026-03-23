@@ -1,5 +1,9 @@
 title: Blue Earth Community Market
-description: Blue Earth's community farmer's market. Local food, local people.
+description: Blue Earth's community farmers market. Local food, local people, every Saturday.
 url: https://blueearthcommunitymarket.com
 baseurl: ""
-permalink: /blog/:year/:month/:day/:title/
+permalink: /news/:year/:month/:day/:title/
+
+collections:
+  posts:
+    output: true
