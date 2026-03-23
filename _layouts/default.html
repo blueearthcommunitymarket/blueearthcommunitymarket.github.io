@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #00BFFF 0%, #32CD32 100%);
+            min-height: 100vh;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .site-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .hero {
+            background: white;
+            color: #333;
+            padding: 35px;
+            border-radius: 16px;
+            border: 3px solid #333;
+            margin-bottom: 25px;
+            text-align: center;
+            box-shadow: 5px 5px 0px #333;
+        }
+
+        .hero h1 {
+            font-size: 2.4rem;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .hero p {
+            font-size: 1.15rem;
+            font-weight: 600;
+        }
+
+        .page-content {
+            background: white;
+            border: 3px solid #333;
+            border-radius: 16px;
+            padding: 35px;
+            margin-bottom: 25px;
+            box-shadow: 5px 5px 0px #333;
+        }
+
+        .page-content h2 {
+            font-size: 1.8rem;
+            color: #333;
+        }
+
+        .page-content h3 {
+            font-size: 1.2rem;
+            color: #333;
+            margin: 18px 0 8px;
+        }
+
+        .page-content p {
+            margin-bottom: 10px;
+            font-size: 1.05rem;
+        }
+
+        .btn {
+            display: inline-block;
+            background: #00BFFF;
+            color: black;
+            border: 3px solid #333;
+            border-radius: 12px;
+            padding: 12px 24px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            text-decoration: none;
+            box-shadow: 3px 3px 0px #333;
+            transition: all 0.2s;
+        }
+
+        .btn:hover {
+            background: #0088CC;
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 5px 5px 0px #333;
+        }
+
+        .btn-green {
+            background: #32CD32;
+        }
+
+        .btn-green:hover {
+            background: #28a828;
+            color: white;
+        }
+
+        .site-footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            border-radius: 16px;
+            border: 3px solid #00BFFF;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .site-footer .small {
+            font-size: 0.85rem;
+            opacity: 0.8;
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 1.8rem;
+            }
+
+            .page-content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="site-container">
+        {{ content }}
+        <footer class="site-footer">
+            <p>Blue Earth Community Market</p>
+            <p class="small">112 S Grove St, Blue Earth, Minnesota</p>
+        </footer>
+    </div>
+</body>
+</html>
