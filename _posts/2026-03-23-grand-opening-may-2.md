@@ -18,4 +18,4 @@ We're welcoming back many familiar vendors and some exciting new faces. More ann
 - Free admission
 - Leashed pets welcome
 
-Follow our [Facebook group](https://www.facebook.com/groups/blueearthcommunitymarket) for the latest vendor announcements and updates. See you May 2nd!
+Follow us on [Facebook](https://www.facebook.com/share/1BiTzAtMjP/?mibextid=wwXIfr) for the latest vendor announcements and updates. See you May 2nd!
