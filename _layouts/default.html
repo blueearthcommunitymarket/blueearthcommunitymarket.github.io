@@ -528,11 +528,57 @@
             text-decoration: underline;
         }
 
+        /* HAMBURGER */
+        .nav-toggle {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 6px;
+        }
+
+        .nav-toggle span {
+            display: block;
+            width: 24px;
+            height: 2px;
+            background: var(--cream);
+            border-radius: 2px;
+            transition: all 0.2s;
+        }
+
         /* RESPONSIVE NAV */
         @media (max-width: 640px) {
+            .nav-toggle {
+                display: flex;
+            }
+
+            .nav-links {
+                display: none;
+                flex-direction: column;
+                position: absolute;
+                top: 60px;
+                left: 0;
+                right: 0;
+                background: var(--brown-dark);
+                padding: 12px 20px 20px;
+                gap: 4px;
+                z-index: 100;
+            }
+
+            .nav-links.open {
+                display: flex;
+            }
+
             .nav-links a {
-                font-size: 0.78rem;
-                padding: 5px 8px;
+                font-size: 0.95rem;
+                padding: 10px 14px;
+                border-radius: 4px;
+            }
+
+            .site-nav {
+                position: relative;
             }
 
             .hero h1 {
@@ -553,6 +599,9 @@
                 <img src="/assets/logo.jpg" alt="Blue Earth Community Market logo">
                 <span class="nav-logo-text">Blue Earth<br>Community Market</span>
             </a>
+            <button class="nav-toggle" aria-label="Toggle menu" onclick="this.nextElementSibling.classList.toggle('open')">
+                <span></span><span></span><span></span>
+            </button>
             <ul class="nav-links">
                 <li><a href="/" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
                 <li><a href="/news/" {% if page.url contains '/news' %}class="active"{% endif %}>News</a></li>
