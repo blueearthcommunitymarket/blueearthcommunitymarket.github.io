@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BECM Vendor Signup Process</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Lato', sans-serif;
+    background: #f7f3ec;
+    padding: 40px 20px;
+  }
+
+  .infographic {
+    max-width: 680px;
+    margin: 0 auto;
+    background: #f7f3ec;
+  }
+
+  /* HEADER */
+  .header {
+    background: #3b2a1a;
+    border-radius: 14px 14px 0 0;
+    padding: 36px 40px 30px;
+    text-align: center;
+  }
+
+  .header .eyebrow {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #c8a04a;
+    margin-bottom: 8px;
+  }
+
+  .header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.9rem;
+    color: #f7f3ec;
+    line-height: 1.2;
+    margin-bottom: 10px;
+  }
+
+  .header p {
+    font-size: 0.97rem;
+    color: #c4b99a;
+  }
+
+  /* STEPS CONTAINER */
+  .steps {
+    background: white;
+    border-left: 1px solid #c4a87a;
+    border-right: 1px solid #c4a87a;
+    padding: 10px 0;
+  }
+
+  /* STEP */
+  .step {
+    display: flex;
+    align-items: flex-start;
+    padding: 24px 36px;
+    gap: 20px;
+    border-bottom: 1px solid #ede5d8;
+    position: relative;
+  }
+
+  .step:last-child {
+    border-bottom: none;
+  }
+
+  /* NUMBER BUBBLE */
+  .step-num {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+
+  .step-num.green  { background: #3d5a2e; color: #f7f3ec; }
+  .step-num.brown  { background: #6b4c2a; color: #f7f3ec; }
+  .step-num.gold   { background: #c8a04a; color: #3b2a1a; }
+
+  /* CONNECTOR LINE */
+  .step:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    left: 57px;
+    bottom: -1px;
+    width: 2px;
+    height: 25px;
+    background: #c4a87a;
+    z-index: 1;
+  }
+
+  /* STEP BODY */
+  .step-body {
+    flex: 1;
+  }
+
+  .step-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #8aaa6a;
+    margin-bottom: 3px;
+  }
+
+  .step-label.brown-label { color: #a07850; }
+  .step-label.gold-label  { color: #c8a04a; }
+
+  .step-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.15rem;
+    color: #3b2a1a;
+    margin-bottom: 6px;
+  }
+
+  .step-desc {
+    font-size: 0.92rem;
+    color: #5a4535;
+    line-height: 1.6;
+  }
+
+  /* PILL TAGS */
+  .pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 10px;
+  }
+
+  .pill {
+    display: inline-block;
+    padding: 3px 11px;
+    border-radius: 20px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+  }
+
+  .pill-green { background: #e8f0df; color: #3d5a2e; }
+  .pill-brown { background: #f0e8dc; color: #6b4c2a; }
+  .pill-gold  { background: #fdf3dc; color: #8a6a10; }
+
+  /* DIVIDER STEP (approval) */
+  .step.highlight {
+    background: #f7f3ec;
+  }
+
+  /* ARROW BETWEEN SECTIONS */
+  .section-arrow {
+    text-align: center;
+    padding: 6px 0;
+    background: white;
+    color: #c4a87a;
+    font-size: 1.4rem;
+    border-left: 1px solid #c4a87a;
+    border-right: 1px solid #c4a87a;
+  }
+
+  /* SECTION DIVIDER LABEL */
+  .section-divider {
+    background: #3d5a2e;
+    text-align: center;
+    padding: 10px 20px;
+    border-left: 1px solid #c4a87a;
+    border-right: 1px solid #c4a87a;
+  }
+
+  .section-divider span {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #c8ddaa;
+  }
+
+  /* FOOTER */
+  .footer {
+    background: #3b2a1a;
+    border-radius: 0 0 14px 14px;
+    padding: 22px 36px;
+    text-align: center;
+  }
+
+  .footer p {
+    font-size: 0.88rem;
+    color: #c4b99a;
+    margin-bottom: 6px;
+  }
+
+  .footer a {
+    color: #c8a04a;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .checkmark-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 6px;
+  }
+
+  .checkmark-row .check {
+    width: 22px;
+    height: 22px;
+    background: #5a7a40;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75rem;
+    color: white;
+    flex-shrink: 0;
+  }
+
+  .checkmark-row span {
+    font-size: 0.88rem;
+    color: #5a4535;
+  }
+</style>
+</head>
+<body>
+<div class="infographic">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="eyebrow">Blue Earth Community Market</div>
+    <h1>How to Become a Vendor</h1>
+    <p>From your first sign-up to your first market day</p>
+  </div>
+
+  <!-- PART 1: WEBSITE -->
+  <div class="section-divider">
+    <span>Part 1 &mdash; Register on the Website</span>
+  </div>
+
+  <div class="steps">
+
+    <div class="step">
+      <div class="step-num green">1</div>
+      <div class="step-body">
+        <div class="step-label">Get Started</div>
+        <div class="step-title">Visit the Vendors Page</div>
+        <div class="step-desc">Go to <strong>blueearthcommunitymarket.com/vendors</strong> to find the vendor application and all the info you need about booth details, market rules, and what to expect.</div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num green">2</div>
+      <div class="step-body">
+        <div class="step-label">Apply</div>
+        <div class="step-title">Fill Out the Vendor Application</div>
+        <div class="step-desc">Complete the short form on the page. You'll share your business name, contact info, what you sell, booth size needs, and whether you have a Cottage Food registration (if applicable).</div>
+        <div class="pills">
+          <span class="pill pill-green">Business name</span>
+          <span class="pill pill-green">Contact info</span>
+          <span class="pill pill-green">Products you sell</span>
+          <span class="pill pill-green">Booth size</span>
+          <span class="pill pill-green">Cottage food reg.</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="step highlight">
+      <div class="step-num brown">3</div>
+      <div class="step-body">
+        <div class="step-label brown-label">Review</div>
+        <div class="step-title">Wait for Approval</div>
+        <div class="step-desc">Market admins Heather and Morgan will review your application within <strong>3&ndash;5 business days</strong> and reach out by email with next steps.</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- PART 2: SIGNUPGENIUS -->
+  <div class="section-divider" style="background: #6b4c2a;">
+    <span>Part 2 &mdash; Pick Your Market Dates</span>
+  </div>
+
+  <div class="steps">
+
+    <div class="step">
+      <div class="step-num brown">4</div>
+      <div class="step-body">
+        <div class="step-label brown-label">Welcome Email</div>
+        <div class="step-title">Receive Your Welcome Email</div>
+        <div class="step-desc">Once approved, you'll get a welcome email with the Vendor Rules, permit reminders, and a link to select your market dates.</div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num brown">5</div>
+      <div class="step-body">
+        <div class="step-label brown-label">Date Selection</div>
+        <div class="step-title">Open the SignUpGenius Link</div>
+        <div class="step-desc">You'll land on the Blue Earth Community Market vendor sign-up page. All 26 Saturdays from <strong>May 2 through October 31</strong> are listed with available slots.</div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num brown">6</div>
+      <div class="step-body">
+        <div class="step-label brown-label">Sign Up</div>
+        <div class="step-title">Select the Dates You Want</div>
+        <div class="step-desc">Click <strong>"Sign Up"</strong> next to each Saturday you plan to attend. Enter your name, email, and business name. You can sign up for as many or as few dates as you like.</div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num brown">7</div>
+      <div class="step-body">
+        <div class="step-label brown-label">Manage</div>
+        <div class="step-title">Cancel or Change Dates Anytime</div>
+        <div class="step-desc">Can't make it? Use the link in your confirmation email to cancel a date. Just do it before the <strong>72-hour cutoff</strong> (Wednesday morning before the Saturday market).</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- PART 3: MARKET DAY -->
+  <div class="section-divider" style="background: #c8a04a;">
+    <span style="color: #3b2a1a;">Part 3 &mdash; Show Up and Sell</span>
+  </div>
+
+  <div class="steps">
+
+    <div class="step">
+      <div class="step-num gold">8</div>
+      <div class="step-body">
+        <div class="step-label gold-label">Weekly</div>
+        <div class="step-title">Let Us Know You're Coming</div>
+        <div class="step-desc">Each week you attend, help promote your presence! Post on your own Facebook page and tag the market, or send us a photo and caption to share from the market page. <strong>Vendors who promote get promoted.</strong></div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num gold">9</div>
+      <div class="step-body">
+        <div class="step-label gold-label">Market Day</div>
+        <div class="step-title">Arrive, Set Up, and Sell!</div>
+        <div class="step-desc">Setup begins at <strong>9:00 AM</strong>. Vehicles must be moved to vendor parking by <strong>9:30 AM</strong>. Market opens at <strong>10:00 AM</strong>. Standard booth is 12x12 ft. Bring your own tent, table, and weights.</div>
+        <div class="pills" style="margin-top: 10px;">
+          <span class="pill pill-gold">Setup 9:00 AM</span>
+          <span class="pill pill-gold">Market 10AM - 1PM</span>
+          <span class="pill pill-gold">12x12 ft booth</span>
+          <span class="pill pill-gold">No vendor fee</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <p>Questions? Email us at <a href="mailto:info@blueearthcommunitymarket.com">info@blueearthcommunitymarket.com</a></p>
+    <p style="margin-top: 4px;">112 S Grove St, Blue Earth, MN &nbsp;|&nbsp; Saturdays 10AM&ndash;1PM, May&ndash;October</p>
+  </div>
+
+</div>
+</body>
+</html>
