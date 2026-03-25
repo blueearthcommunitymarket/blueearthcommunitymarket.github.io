@@ -1,0 +1,94 @@
+---
+layout: default
+title: Vendor Application
+description: Apply to become a vendor at the Blue Earth Community Market.
+---
+
+<div class="page-header">
+    <h1>Vendor Application</h1>
+    <p>Blue Earth Community Market - 2026 Season</p>
+</div>
+
+<div class="site-main">
+
+    <div class="card">
+        <div class="section-label">Join Us</div>
+        <h2>Sign Up for the 2026 Season</h2>
+        <p>Fill out the form below and we'll be in touch within 3-5 business days. We limit duplicate vendor types to two per market day to keep things varied for shoppers.</p>
+        <hr class="divider">
+        <form action="https://formspree.io/f/xyknrakv" method="POST">
+
+            <div class="form-field">
+                <label for="vendor_name">Business / Vendor Name *</label>
+                <input type="text" id="vendor_name" name="vendor_name" required>
+            </div>
+            <div class="form-field">
+                <label for="contact_name">Your Name *</label>
+                <input type="text" id="contact_name" name="contact_name" required>
+            </div>
+            <div class="grid-2">
+                <div class="form-field">
+                    <label for="email">Email Address *</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-field">
+                    <label for="phone">Phone Number</label>
+                    <input type="tel" id="phone" name="phone">
+                </div>
+            </div>
+            <div class="form-field">
+                <label for="products">What do you sell? *</label>
+                <textarea id="products" name="products" placeholder="Describe your products or goods..." required></textarea>
+            </div>
+            <div class="form-field">
+                <label for="frequency">How often do you plan to attend?</label>
+                <select id="frequency" name="frequency">
+                    <option value="">Select one</option>
+                    <option value="every_week">Every week</option>
+                    <option value="most_weeks">Most weeks</option>
+                    <option value="occasional">Occasionally / as available</option>
+                    <option value="seasonal">Only certain months</option>
+                </select>
+            </div>
+            <div class="form-field">
+                <label for="booth_size">Booth size needed</label>
+                <select id="booth_size" name="booth_size">
+                    <option value="standard">Standard (12x12 ft)</option>
+                    <option value="larger">Larger than 12x12 (describe in notes)</option>
+                    <option value="food_truck">Food truck</option>
+                </select>
+            </div>
+            <div class="form-field">
+                <label for="cottage_food">Do you hold a Minnesota Cottage Food registration? (if applicable)</label>
+                <select id="cottage_food" name="cottage_food">
+                    <option value="">Not applicable</option>
+                    <option value="yes">Yes</option>
+                    <option value="no">No, but I plan to get one</option>
+                    <option value="not_sure">Not sure</option>
+                </select>
+            </div>
+            <div class="form-field">
+                <label for="notes">Anything else we should know?</label>
+                <textarea id="notes" name="notes" placeholder="Special requests, questions, or notes..."></textarea>
+            </div>
+            <div class="form-field" style="background: #f7f3ec; border: 1px solid #c4a87a; border-radius: 8px; padding: 18px;">
+                <p style="font-size: 0.92rem; color: #4a3828; margin-bottom: 12px;">Please read the <a href="/vendor-rules/" style="color: var(--green-dark); font-weight: 700;">Vendor Rules &amp; Guidelines</a> before submitting your application.</p>
+                <label style="display: flex; align-items: flex-start; gap: 10px; cursor: pointer;">
+                    <input type="checkbox" name="rules_agreed" value="yes" required style="width: auto; margin-top: 3px; flex-shrink: 0;">
+                    <span style="font-size: 0.92rem; color: #3b2a1a; font-weight: 700;">I have read and agree to the Blue Earth Community Market Vendor Rules &amp; Guidelines.</span>
+                </label>
+            </div>
+            <div class="form-submit">
+                <button type="submit" class="btn btn-primary">Submit Application</button>
+            </div>
+            <p class="form-note" style="margin-top: 14px;">Questions? Email us at <a href="mailto:info@blueearthcommunitymarket.com">info@blueearthcommunitymarket.com</a>.</p>
+        </form>
+    </div>
+
+    <div class="highlight-box" style="background: var(--green-dark);">
+        <h2>Already applied? Pick Your Market Dates</h2>
+        <p>Use the link below to sign up for specific Saturdays, or cancel dates you can no longer make.</p>
+        <a href="https://www.signupgenius.com/go/10C044BACA922AAF9C61-63147410-blue" target="_blank" rel="noopener" class="btn btn-outline" style="margin-top: 16px; display: inline-block;">Select Your Dates &rarr;</a>
+    </div>
+
+</div>
