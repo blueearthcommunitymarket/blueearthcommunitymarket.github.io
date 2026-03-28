@@ -7,14 +7,14 @@ description: Live music events at the Ryno Community Lot featuring local and tou
 <style>
 /* Rock N' Roll Theme */
 .rockin-hero {
-    background: linear-gradient(135deg, #000000 0%, #1a1a1a 50%, #000000 100%);
-    color: #ffd700;
+    background: linear-gradient(135deg, #2d2d2d 0%, #3d3d3d 50%, #2d2d2d 100%);
+    color: #f4e4b8;
     padding: 60px 20px;
     text-align: center;
     position: relative;
     overflow: hidden;
-    border-top: 8px solid #cc0000;
-    border-bottom: 8px solid #cc0000;
+    border-top: 4px solid #8b4513;
+    border-bottom: 4px solid #8b4513;
 }
 
 .rockin-hero::before {
@@ -28,37 +28,31 @@ description: Live music events at the Ryno Community Lot featuring local and tou
         repeating-linear-gradient(
             90deg,
             transparent,
-            transparent 25px,
-            rgba(204, 0, 0, 0.1) 25px,
-            rgba(204, 0, 0, 0.1) 50px
-        ),
-        repeating-linear-gradient(
-            0deg,
-            transparent,
-            transparent 25px,
-            rgba(255, 215, 0, 0.05) 25px,
-            rgba(255, 215, 0, 0.05) 50px
+            transparent 30px,
+            rgba(139, 69, 19, 0.05) 30px,
+            rgba(139, 69, 19, 0.05) 60px
         );
     pointer-events: none;
 }
 
 .rockin-hero h1 {
-    font-family: 'Impact', 'Arial Black', sans-serif;
-    font-size: 3.8rem;
-    color: #ffd700;
-    text-shadow: 4px 4px 0px #cc0000, 8px 8px 0px #000000;
-    letter-spacing: 4px;
+    font-family: 'Playfair Display', serif;
+    font-size: 3.2rem;
+    color: #f4e4b8;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    letter-spacing: 2px;
     margin-bottom: 12px;
     position: relative;
     z-index: 2;
-    line-height: 0.9;
+    line-height: 1.1;
+    font-weight: 700;
 }
 
 .rockin-hero .tagline {
-    font-size: 1.5rem;
-    color: #cc0000;
-    font-weight: 900;
-    text-shadow: 2px 2px 0px #000;
+    font-size: 1.3rem;
+    color: #d4a574;
+    font-weight: 700;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
     margin-bottom: 8px;
     position: relative;
     z-index: 2;
@@ -74,29 +68,25 @@ description: Live music events at the Ryno Community Lot featuring local and tou
 }
 
 .rock-section {
-    background: #000000;
-    color: #ffd700;
+    background: var(--warm-white);
+    color: var(--brown-dark);
     margin: 0;
     padding: 40px 20px;
-    border-left: 6px solid #cc0000;
-    border-right: 6px solid #cc0000;
 }
 
 .rock-section h2 {
-    font-family: 'Impact', 'Arial Black', sans-serif;
-    font-size: 2.4rem;
-    color: #ffd700;
-    text-shadow: 3px 3px 0px #cc0000;
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2rem;
+    color: var(--brown-dark);
     text-align: center;
     margin-bottom: 30px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 
 .rock-section h3 {
-    font-family: 'Impact', 'Arial Black', sans-serif;
+    font-family: 'Playfair Display', serif;
     font-size: 1.6rem;
-    color: #cc0000;
-    text-shadow: 2px 2px 0px #000;
+    color: var(--brown-mid);
     margin: 25px 0 15px;
     text-align: center;
 }
@@ -114,57 +104,49 @@ description: Live music events at the Ryno Community Lot featuring local and tou
 }
 
 .musician-card {
-    background: linear-gradient(135deg, #cc0000, #aa0000);
-    border: 3px solid #ffd700;
-    border-radius: 12px;
+    background: var(--warm-white);
+    border: 2px solid var(--brown-light);
+    border-radius: 10px;
     padding: 25px;
     text-align: center;
     position: relative;
     overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 .musician-card::before {
     content: '';
     position: absolute;
-    top: -50%;
-    left: -50%;
-    right: -50%;
-    bottom: -50%;
-    background-image: 
-        radial-gradient(circle, rgba(255, 215, 0, 0.1) 2px, transparent 2px);
-    background-size: 20px 20px;
-    animation: sparkle 3s linear infinite;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, transparent 0%, rgba(139, 69, 19, 0.03) 50%, transparent 100%);
     pointer-events: none;
 }
 
-@keyframes sparkle {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-}
-
 .musician-card h4 {
-    font-family: 'Impact', sans-serif;
-    font-size: 1.8rem;
-    color: #ffd700;
-    text-shadow: 2px 2px 0px #000;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.6rem;
+    color: var(--brown-dark);
     margin-bottom: 12px;
     position: relative;
     z-index: 2;
 }
 
 .musician-card p {
-    color: #ffffff;
+    color: var(--brown-mid);
     font-size: 1rem;
     line-height: 1.6;
-    font-weight: 500;
+    font-weight: 400;
     position: relative;
     z-index: 2;
 }
 
 .event-schedule {
-    background: #1a1a1a;
-    border: 4px solid #cc0000;
-    border-radius: 12px;
+    background: var(--warm-white);
+    border: 1px solid var(--border);
+    border-radius: 10px;
     padding: 25px;
     margin: 25px 0;
 }
@@ -173,67 +155,65 @@ description: Live music events at the Ryno Community Lot featuring local and tou
     width: 100%;
     border-collapse: collapse;
     font-size: 1rem;
-    background: #000000;
-    border: 2px solid #cc0000;
+    background: var(--warm-white);
+    border: 1px solid var(--border);
     margin-top: 15px;
 }
 
 .schedule-table th {
-    background: #cc0000;
-    color: #ffd700;
-    font-family: 'Impact', sans-serif;
+    background: var(--brown-dark);
+    color: var(--cream);
+    font-family: 'Playfair Display', serif;
     padding: 12px 16px;
     text-align: left;
     font-size: 1.1rem;
-    letter-spacing: 1px;
 }
 
 .schedule-table td {
     padding: 14px 16px;
-    border-bottom: 1px solid #333;
-    color: #ffffff;
+    border-bottom: 1px solid var(--border);
+    color: var(--brown-dark);
     font-weight: 500;
 }
 
 .schedule-table tr:nth-child(even) td {
-    background: #1a1a1a;
+    background: #f3ede3;
 }
 
 .schedule-table .event-date {
     font-weight: 700;
-    color: #ffd700;
+    color: var(--green-dark);
     white-space: nowrap;
-    font-family: 'Impact', sans-serif;
 }
 
 .schedule-table .artist-name {
-    color: #cc0000;
+    color: var(--brown-dark);
     font-weight: 700;
     font-size: 1.05rem;
 }
 
 .lightning-border {
-    background: linear-gradient(45deg, #ffd700, #cc0000);
-    padding: 3px;
-    border-radius: 12px;
+    background: var(--brown-light);
+    padding: 2px;
+    border-radius: 10px;
     margin: 20px 0;
 }
 
 .lightning-inner {
-    background: #000000;
+    background: var(--warm-white);
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 .coming-soon {
-    background: #333333;
-    color: #ffd700;
+    background: var(--cream);
+    color: var(--brown-dark);
     padding: 25px;
-    border-radius: 12px;
+    border-radius: 10px;
     text-align: center;
-    border: 4px dashed #cc0000;
+    border: 2px dashed var(--brown-light);
     margin: 25px 0;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 1.1rem;
 }
 </style>
@@ -253,13 +233,13 @@ description: Live music events at the Ryno Community Lot featuring local and tou
             <div class="musician-card">
                 <h4>🎤 MORGAN DICKMAN</h4>
                 <p>Local favorite bringing soulful vocals and acoustic energy to the Ryno Community Lot. A Blue Earth treasure with a voice that fills the night.</p>
-                <p style="margin-top: 12px; font-weight: 700; color: #ffd700;">📅 May 29th • 6:00-9:00 PM</p>
+                <p style="margin-top: 12px; font-weight: 700; color: var(--green-dark);">📅 May 29th • 6:00-9:00 PM</p>
             </div>
 
             <div class="musician-card">
                 <h4>🎸 BLUE DIRT ROAD</h4>
                 <p>High-energy country rock that gets crowds moving and singing along. Perfect soundtrack for classic cars and good times under the stars.</p>
-                <p style="margin-top: 12px; font-weight: 700; color: #ffd700;">📅 June 19th • 6:00-9:00 PM</p>
+                <p style="margin-top: 12px; font-weight: 700; color: var(--green-dark);">📅 June 19th • 6:00-9:00 PM</p>
             </div>
         </div>
 
@@ -276,17 +256,17 @@ description: Live music events at the Ryno Community Lot featuring local and tou
                     </tr>
                 </thead>
                 <tbody>
-                    <tr style="background: #cc0000;">
+                    <tr style="background: var(--green-light); color: var(--brown-dark);">
                         <td class="event-date">May 29</td>
-                        <td style="color: #ffd700; font-weight: 700;">Friday</td>
+                        <td style="font-weight: 700;">Friday</td>
                         <td class="artist-name">🎤 Morgan Dickman</td>
-                        <td style="color: #ffd700; font-weight: 700;">6:00-9:00 PM</td>
+                        <td style="font-weight: 700;">6:00-9:00 PM</td>
                     </tr>
-                    <tr style="background: #cc0000;">
+                    <tr style="background: var(--green-light); color: var(--brown-dark);">
                         <td class="event-date">June 19</td>
-                        <td style="color: #ffd700; font-weight: 700;">Friday</td>
+                        <td style="font-weight: 700;">Friday</td>
                         <td class="artist-name">🎸 Blue Dirt Road</td>
-                        <td style="color: #ffd700; font-weight: 700;">6:00-9:00 PM</td>
+                        <td style="font-weight: 700;">6:00-9:00 PM</td>
                     </tr>
                 </tbody>
             </table>
@@ -295,30 +275,30 @@ description: Live music events at the Ryno Community Lot featuring local and tou
         <div class="lightning-border">
             <div class="lightning-inner">
                 <h3 style="text-align: center; margin-bottom: 15px;">⚡ WHAT TO EXPECT ⚡</h3>
-                <p style="color: #ffffff; text-align: center; font-size: 1.1rem; line-height: 1.6;">
-                    <strong style="color: #ffd700;">Live Music</strong> under the stars • 
-                    <strong style="color: #ffd700;">Food Trucks</strong> on site • 
-                    <strong style="color: #ffd700;">Classic Cars</strong> welcome • 
-                    <strong style="color: #ffd700;">Community</strong> gathering • 
-                    <strong style="color: #ffd700;">Free</strong> admission
+                <p style="color: var(--brown-dark); text-align: center; font-size: 1.1rem; line-height: 1.6;">
+                    <strong style="color: var(--green-dark);">Live Music</strong> under the stars • 
+                    <strong style="color: var(--green-dark);">Food Trucks</strong> on site • 
+                    <strong style="color: var(--green-dark);">Classic Cars</strong> welcome • 
+                    <strong style="color: var(--green-dark);">Community</strong> gathering • 
+                    <strong style="color: var(--green-dark);">Free</strong> admission
                 </p>
             </div>
         </div>
 
         <div class="coming-soon">
             🎶 MORE ARTISTS COMING SOON! 🎶<br>
-            <span style="font-size: 0.9rem; color: #cccccc;">Check back for updates on additional Rock N' Roll-In events</span>
+            <span style="font-size: 0.9rem; color: var(--brown-light);">Check back for updates on additional Rock N' Roll-In events</span>
         </div>
 
         <div class="lightning-border">
             <div class="lightning-inner">
                 <h3 style="text-align: center; margin-bottom: 15px;">📍 EVENT INFO</h3>
-                <p style="color: #ffffff; text-align: center; font-size: 1rem; line-height: 1.8;">
-                    <strong style="color: #cc0000;">Location:</strong> Ryno Community Lot, 112 S Grove St, Blue Earth, MN<br>
-                    <strong style="color: #cc0000;">Parking:</strong> Free on-site parking available<br>
-                    <strong style="color: #cc0000;">Admission:</strong> Free - bring your lawn chairs!<br>
-                    <strong style="color: #cc0000;">Food:</strong> Food trucks on-site during events<br>
-                    <strong style="color: #cc0000;">Contact:</strong> Ryno Repair for event details
+                <p style="color: var(--brown-dark); text-align: center; font-size: 1rem; line-height: 1.8;">
+                    <strong style="color: var(--brown-mid);">Location:</strong> Ryno Community Lot, 112 S Grove St, Blue Earth, MN<br>
+                    <strong style="color: var(--brown-mid);">Parking:</strong> Free on-site parking available<br>
+                    <strong style="color: var(--brown-mid);">Admission:</strong> Free - bring your lawn chairs!<br>
+                    <strong style="color: var(--brown-mid);">Food:</strong> Food trucks on-site during events<br>
+                    <strong style="color: var(--brown-mid);">Contact:</strong> Ryno Repair for event details
                 </p>
             </div>
         </div>
