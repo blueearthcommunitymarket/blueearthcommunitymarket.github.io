@@ -1,0 +1,226 @@
+---
+layout: default
+title: Hi-Way Motorfest 2026
+description: Through the Decades Car Show - celebrating 100 years of automotive history at Blue Earth's premier automotive festival.
+---
+
+<style>
+/* Racing Theme Overrides */
+.motorfest-hero {
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #1a1a1a 100%);
+    color: #ffd700;
+    padding: 60px 20px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    border-top: 8px solid #ffd700;
+    border-bottom: 8px solid #ffd700;
+}
+
+.motorfest-hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -50px;
+    right: -50px;
+    bottom: 0;
+    background-image: 
+        repeating-linear-gradient(
+            45deg,
+            transparent,
+            transparent 20px,
+            rgba(255, 215, 0, 0.1) 20px,
+            rgba(255, 215, 0, 0.1) 40px
+        );
+    pointer-events: none;
+}
+
+.motorfest-hero h1 {
+    font-family: 'Impact', 'Arial Black', sans-serif;
+    font-size: 3.5rem;
+    color: #ffd700;
+    text-shadow: 3px 3px 0px #cc0000, 6px 6px 0px #000000;
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+    position: relative;
+    z-index: 2;
+}
+
+.motorfest-hero .date {
+    font-size: 1.8rem;
+    color: #ff6600;
+    font-weight: 900;
+    text-shadow: 2px 2px 0px #000;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 2;
+}
+
+.motorfest-hero .tagline {
+    font-size: 1.3rem;
+    color: #ffffff;
+    font-weight: 700;
+    text-shadow: 1px 1px 0px #000;
+    position: relative;
+    z-index: 2;
+}
+
+.racing-section {
+    background: #000000;
+    color: #ffd700;
+    margin: 0;
+    padding: 40px 20px;
+    border-left: 6px solid #ffd700;
+    border-right: 6px solid #ffd700;
+}
+
+.racing-section h2 {
+    font-family: 'Impact', 'Arial Black', sans-serif;
+    font-size: 2.2rem;
+    color: #ffd700;
+    text-shadow: 2px 2px 0px #cc0000;
+    text-align: center;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+
+.racing-section h3 {
+    font-family: 'Impact', 'Arial Black', sans-serif;
+    font-size: 1.4rem;
+    color: #ff6600;
+    text-shadow: 1px 1px 0px #000;
+    margin: 20px 0 10px;
+}
+
+.racing-section p, .racing-section li {
+    color: #ffffff;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    font-weight: 500;
+}
+
+.racing-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+@media (max-width: 768px) {
+    .racing-grid { grid-template-columns: 1fr; }
+    .motorfest-hero h1 { font-size: 2.5rem; }
+}
+
+.checkered-border {
+    background-image: 
+        linear-gradient(45deg, #000 25%, transparent 25%), 
+        linear-gradient(-45deg, #000 25%, transparent 25%), 
+        linear-gradient(45deg, transparent 75%, #000 75%), 
+        linear-gradient(-45deg, transparent 75%, #000 75%);
+    background-size: 20px 20px;
+    background-position: 0 0, 0 10px, 10px -10px, -10px 0px;
+    border: 3px solid #ffd700;
+    padding: 25px;
+    margin: 20px 0;
+}
+
+.award-box {
+    background: #cc0000;
+    color: #ffd700;
+    padding: 20px;
+    border-radius: 8px;
+    border: 3px solid #ffd700;
+    text-align: center;
+    margin: 15px 0;
+}
+
+.award-box h4 {
+    font-family: 'Impact', sans-serif;
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+    color: #ffd700;
+}
+
+.vendor-placeholder {
+    background: #ff6600;
+    color: #000000;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: center;
+    border: 4px solid #ffd700;
+    font-weight: 900;
+    font-size: 1.2rem;
+    margin: 25px 0;
+}
+</style>
+
+<div class="motorfest-hero">
+    <h1>HI-WAY MOTORFEST</h1>
+    <div class="date">SEPTEMBER 13TH, 2026</div>
+    <div class="tagline">Through the Decades Car Show</div>
+</div>
+
+<div class="racing-section">
+    <div style="max-width: 1000px; margin: 0 auto;">
+        
+        <h2>🏁 CELEBRATING 100 YEARS OF AUTOMOTIVE HISTORY 🏁</h2>
+        
+        <div class="checkered-border">
+            <h3>📅 EVENT SCHEDULE</h3>
+            <p><strong>1:00 PM</strong> - Registration Opens</p>
+            <p><strong>2:00 PM - 6:00 PM</strong> - Car Show</p>
+            <p><strong>4:00 PM</strong> - Tom Miller Bench Dedication</p>
+        </div>
+
+        <div class="racing-grid">
+            <div>
+                <h3>🏆 AWARD CATEGORIES</h3>
+                <div class="award-box">
+                    <h4>🥇 BEST IN SHOW</h4>
+                    <p>Top overall vehicle</p>
+                </div>
+                <div class="award-box">
+                    <h4>💋 LADIES PICK</h4>
+                    <p>Fan favorite choice</p>
+                </div>
+                <div class="award-box">
+                    <h4>🔧 RYNO'S CHOICE</h4>
+                    <p>Mechanic's selection</p>
+                </div>
+            </div>
+
+            <div>
+                <h3>📍 LOCATION & PARKING</h3>
+                <div class="checkered-border">
+                    <p><strong>Event Location:</strong><br>
+                    112 South Grove Street<br>
+                    Blue Earth, MN</p>
+                    
+                    <p><strong>Parking:</strong><br>
+                    6th St & Highway 169<br>
+                    at Cornerstone Church</p>
+                </div>
+            </div>
+        </div>
+
+        <h3>🛒 SWAP MEET & FLEA MARKET</h3>
+        <div class="checkered-border">
+            <p><strong>Vendor Fee:</strong> $20 per vendor</p>
+            <p><strong>Setup:</strong> BYOT (Bring Your Own Table)</p>
+            <p>Perfect for automotive parts, tools, memorabilia, and more!</p>
+        </div>
+
+        <div class="vendor-placeholder">
+            🚧 VENDOR REGISTRATION AVAILABLE SOON - CHECK BACK! 🚧
+        </div>
+
+        <h3>ℹ️ MORE INFORMATION</h3>
+        <div class="checkered-border">
+            <p><strong>Contact:</strong> Ryno Repair<br>
+            <strong>Location:</strong> 112 South Grove Street, Blue Earth, MN</p>
+            
+            <p>Join us for an incredible celebration of automotive history, from classic vintage beauties to modern marvels. This is Blue Earth's premier automotive event!</p>
+        </div>
+
+    </div>
+</div>
