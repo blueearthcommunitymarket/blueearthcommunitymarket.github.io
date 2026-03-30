@@ -4,7 +4,7 @@ title: "Welcome to Our Brand New Website! 🌻"
 date: 2026-03-30
 ---
 
-Hey Blue Earth community! We're so excited to share our shiny new website with you. After months of planning and building, we finally have a digital home that showcases everything we love about our Saturday farmers market.
+Hey Blue Earth community! We're so excited to share our shiny new website with you. After months of planning and building, we finally have a digital home that showcases everything we love about our Saturday Community Market and all of the other events that take place at the Ryno Community Lot.
 
 ## **What You'll Find Here**
 
