@@ -12,13 +12,13 @@ Hey Blue Earth community! We're so excited to share our shiny new website with y
 Get to know the amazing people behind the booths! From Blue Earth Cooperative Bakery's fresh-baked bread (seriously, the smell alone will draw you in) to Goemann Produce's just-picked vegetables, every vendor has a story worth telling. We've created spotlight pages where you can learn about their businesses, see what they're bringing to market, and even visit their websites or Facebook pages.
 
 ### 🚚 **Food Truck Lineup**
-Hungry? We've got you covered! Check out our "Meet the Trucks" section to see which delicious food trucks will be at the market each Saturday. Whether you're craving Bummy's BBQ, fresh tacos from Kris Tacos, or something sweet from The Lemon, you can plan your perfect market meal ahead of time.
+Hungry? We've got you covered! Check out our "Meet the Trucks" section to see which delicious food trucks will be at the Ryno Community Lot throughout the week. Whether you're craving Bummy's BBQ, fresh tacos from Kris Tacos, or something sweet from The Lemon, you can check the schedule and plan your perfect meal any day of the week.
 
 ### 🎸 **Live Music at Ryno's Rockin' Roll-In**
-Saturday markets just got even more fun! We're featuring live music with local favorite Morgan Dickman kicking us off on May 29th, followed by Blue Dirt Road on June 19th. And here's the coolest part: thanks to our incredible community sponsors, we raised $3,000 to build a permanent stage! The Blue Earth Area Construction Tech Students are building it for us. How amazing is that?
+Friday nights just got even more fun! We're featuring live music events at the Ryno Community Lot with local favorite Morgan Dickman kicking us off on Friday, May 29th, followed by Blue Dirt Road on Friday, June 19th. And here's the coolest part: thanks to our incredible community sponsors, we raised $3,000 to build a permanent stage! The Blue Earth Area Construction Tech Students are building it for us. How amazing is that?
 
 ### 📅 **Never Miss Your Favorites**
-We know you have favorite vendors and food trucks, so we've made it super easy to see who's coming each Saturday. No more guessing or showing up disappointed because your go-to lunch spot isn't there!
+We know you have favorite vendors and food trucks, so we've made it super easy to see who's coming to the market on Saturdays and which food trucks are scheduled at the Ryno Community Lot throughout the week. No more guessing or showing up disappointed because your go-to lunch spot isn't there!
 
 ## **A Huge Thank You**
 
