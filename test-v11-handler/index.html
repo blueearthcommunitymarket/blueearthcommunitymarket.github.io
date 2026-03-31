@@ -1,0 +1,99 @@
+---
+layout: default
+title: Test Form - v1.1 Handler
+description: Test form with Seth's v1.1 auto-create sheet feature
+---
+
+<div class="page-header">
+    <h1>⚠️ TEST FORM - v1.1 Handler</h1>
+    <p>Testing Seth's v1.1 form handler with auto-created sheets</p>
+</div>
+
+<div class="site-main">
+    <div class="card">
+        <h2>Test Form - v1.1 Auto-Create Sheet</h2>
+        <form action="https://script.google.com/macros/s/AKfycbxXq-ASfHPGtE0PARnjhXWpPxBqBr9wJDIdk2r-qXpi6pMhL_iSbopPmQfczxhzUuko/exec" method="POST">
+            
+            <!-- v1.1 Configuration Fields -->
+            <input type="hidden" name="_name" value="BECM Test Form v1.1 Responses">
+            <input type="hidden" name="_notify" value="info@blueearthcommunitymarket.com">
+            <input type="hidden" name="_meta" value="true">
+            
+            <div class="form-field">
+                <label for="vendor_name">Business / Vendor Name *</label>
+                <input type="text" id="vendor_name" name="vendor_name" value="TEST v1.1 - Auto Create Sheet" required>
+            </div>
+
+            <div class="form-field">
+                <label for="contact_name">Your Name *</label>
+                <input type="text" id="contact_name" name="contact_name" value="Seth v1.1 Test" required>
+            </div>
+
+            <div class="form-field">
+                <label for="email">Email Address *</label>
+                <input type="email" id="email" name="email" value="test-v11@blueearthcommunitymarket.com" required>
+            </div>
+
+            <div class="form-field">
+                <label for="phone">Phone Number</label>
+                <input type="tel" id="phone" name="phone" value="555-V11-TEST">
+            </div>
+
+            <div class="form-field">
+                <label for="products">What do you sell? *</label>
+                <textarea id="products" name="products" required>Testing Seth's v1.1 auto-create sheet functionality</textarea>
+            </div>
+
+            <div class="form-field">
+                <label for="frequency">How often do you plan to attend?</label>
+                <select id="frequency" name="frequency">
+                    <option value="occasional" selected>Occasionally / as available</option>
+                </select>
+            </div>
+
+            <div class="form-field">
+                <label for="booth_size">Booth size needed</label>
+                <select id="booth_size" name="booth_size">
+                    <option value="standard" selected>Standard (12x12 ft)</option>
+                </select>
+            </div>
+
+            <div class="form-field">
+                <label for="cottage_food">Do you hold a Minnesota Cottage Food registration?</label>
+                <select id="cottage_food" name="cottage_food">
+                    <option value="" selected>Not applicable</option>
+                </select>
+            </div>
+
+            <div class="form-field">
+                <label for="social_media">Social Media / Website</label>
+                <input type="url" id="social_media" name="social_media" value="https://v11-test.example.com">
+            </div>
+
+            <div class="form-field">
+                <label for="notes">Notes</label>
+                <textarea id="notes" name="notes">Testing Seth's v1.1 form handler with auto-created Google Sheets. This should create a sheet called "BECM Test Form v1.1 Responses" automatically.</textarea>
+            </div>
+
+            <div class="form-field">
+                <label>
+                    <input type="checkbox" name="rules_agreed" value="yes" checked required>
+                    I agree to the rules (TEST SUBMISSION ONLY)
+                </label>
+            </div>
+
+            <div class="form-submit">
+                <button type="submit" class="btn btn-primary">Submit v1.1 Test</button>
+            </div>
+        </form>
+    </div>
+
+    <div class="card" style="background: #d1ecf1; border-color: #bee5eb;">
+        <h3>🆕 v1.1 Features</h3>
+        <ul>
+            <li><strong>Auto-create sheet:</strong> "_name" field creates "BECM Test Form v1.1 Responses"</li>
+            <li><strong>Email notification:</strong> "_notify" sends to info@blueearthcommunitymarket.com</li>
+            <li><strong>Metadata:</strong> "_meta" includes timestamps and user agent</li>
+        </ul>
+    </div>
+</div>
