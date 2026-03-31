@@ -1,0 +1,61 @@
+---
+layout: default
+title: Form Handler Test
+description: Test page for the new form system
+---
+
+<div class="page-header">
+    <h1>Form Handler Test</h1>
+    <p>Testing Seth's Generic Form Handler System</p>
+</div>
+
+<div class="site-main">
+    <div class="card">
+        <div class="section-label">System Test</div>
+        <h2>Test Form</h2>
+        <p>This is a simple test form to verify the new form handler system works properly. Data will go to a test Google Sheet.</p>
+        
+        <form action="https://script.google.com/macros/s/AKfycbxXq-ASfHPGtE0PARnjhXWpPxBqBr9wJDIdk2r-qXpi6pMhL_iSbopPmQfczxhzUuko/exec" method="POST">
+            <!-- Hidden configuration fields for the form handler -->
+            <input type="hidden" name="_sheet" value="1WEnCGmAOutMd-FWnmISFrRlIjbamE-WASnNUvgF8wdc">
+            <input type="hidden" name="_notify" value="info@blueearthcommunitymarket.com">
+            <input type="hidden" name="_redirect" value="https://blueearthcommunitymarket.com/form-test/thanks/">
+            <input type="hidden" name="_subject" value="Form Handler Test Submission">
+            <input type="hidden" name="_status" value="Test">
+            <input type="hidden" name="_meta" value="true">
+            
+            <div class="form-group">
+                <label for="name">Name *</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="email">Email *</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="test_field">Test Field</label>
+                <input type="text" id="test_field" name="test_field" placeholder="Enter anything here">
+            </div>
+            
+            <div class="form-group">
+                <label for="message">Message</label>
+                <textarea id="message" name="message" rows="4"></textarea>
+            </div>
+            
+            <button type="submit" class="btn btn-primary">Test Submit</button>
+        </form>
+        
+        <hr class="divider" style="margin-top: 32px;">
+        <p><strong>Expected behavior:</strong></p>
+        <ul>
+            <li>Form submits to Seth's handler system</li>
+            <li>Data appears in test Google Sheet</li>
+            <li>Notification email sent to info@blueearthcommunitymarket.com</li>
+            <li>User redirected to thank-you page</li>
+        </ul>
+        
+        <p><strong>Test Sheet:</strong> <a href="https://docs.google.com/spreadsheets/d/1WEnCGmAOutMd-FWnmISFrRlIjbamE-WASnNUvgF8wdc/edit" target="_blank">View Test Results</a></p>
+    </div>
+</div>
