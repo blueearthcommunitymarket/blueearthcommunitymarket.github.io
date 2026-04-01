@@ -4,9 +4,6 @@ title: Food Truck Schedule - Ryno Food Lot
 description: Complete food truck schedule for the Ryno Food Lot in Blue Earth, MN. See which trucks are coming when, plus food truck application form.
 ---
 
-<!-- PayPal SDK for hosted buttons -->
-<script src="https://www.paypalobjects.com/js/external/api.js"></script>
-
 <style>
 /* Racing Theme Overrides for Food Lot */
 .ryno-hero {
@@ -477,12 +474,13 @@ description: Complete food truck schedule for the Ryno Food Lot in Blue Earth, M
         <p style="margin-bottom: 20px; font-size: 1.05rem; color: var(--brown-dark);">Your donations help us continue improving and beautifying this amazing community space for everyone to enjoy. Every contribution makes a difference!</p>
         
         <!-- PayPal Donation Button -->
-        <div id="paypal-container-Q22KFR524A3S4" style="margin: 20px 0;"></div>
-        <script>
-            paypal.HostedButtons({ 
-                hostedButtonId: "Q22KFR524A3S4",
-            }).render("#paypal-container-Q22KFR524A3S4");
-        </script>
+        <div style="margin: 20px 0;">
+            <form action="https://www.paypal.com/donate" method="post" target="_top">
+                <input type="hidden" name="hosted_button_id" value="Q22KFR524A3S4" />
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+                <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+            </form>
+        </div>
         
         <p style="margin-top: 16px; font-size: 0.92rem; color: var(--brown-light);">Thank you for supporting the Blue Earth community! 🌻</p>
     </div>
