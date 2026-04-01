@@ -4,6 +4,22 @@ title: Vendor Spotlight
 description: Meet the vendors of the Blue Earth Community Market. Browse what they sell and follow them on social media.
 ---
 
+<style>
+.frequency-badge {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    color: white;
+    margin: 4px 0;
+}
+.freq-weekly { background-color: #28a745; }
+.freq-most { background-color: #007bff; }
+.freq-occasional { background-color: #ffc107; color: #212529; }
+.freq-seasonal { background-color: #fd7e14; }
+</style>
+
 <div class="page-header">
     <h1>Vendor Spotlight</h1>
     <p>Meet the makers, growers, and creators at our market</p>
@@ -22,31 +38,38 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
         <div class="card">
             <div class="section-label">Skincare &amp; Wellness</div>
             <h2>Alluring Tranquility</h2>
-            <p>Handcrafted skincare, soaps, and candles alongside unique gifts including tumblers, coffee cups, clothing, pens, and magnets. Something for everyone.</p>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-most">Most Weeks</span>
+            </div>
+            <p>Handcrafted skincare, soaps, and candles alongside unique gifts including tumblers, coffee cups, clothing, pens, and magnets. Primary focus on all-natural skincare and wellness products.</p>
             <div class="pills" style="margin-top: 12px;">
                 <span class="tag">Skincare</span>
                 <span class="tag">Soaps</span>
                 <span class="tag">Candles</span>
                 <span class="tag">Tumblers</span>
-                <span class="tag">Gifts</span>
+                <span class="tag">Wellness</span>
+                <span class="tag">Natural</span>
             </div>
             <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
                 <a href="https://www.facebook.com/Alluringtranquility" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-                <a href="https://alluringtranquility.com/" target="_blank" rel="noopener" class="btn btn-primary" style="font-size: 0.82rem; padding: 8px 16px;">Website</a>
             </div>
         </div>
 
         <!-- Blue Earth Cooperative Bakery -->
         <div class="card">
-            <div class="section-label">Bakery</div>
+            <div class="section-label">Bakery &amp; Treats</div>
             <h2>Blue Earth Cooperative Bakery</h2>
-            <p>Small batch artisan sourdough breads, focaccia, scones, cookies, cakes, and seasonal treats, all handmade in Blue Earth. Sales from the bakery help support the preservation and restoration of our historic cooperative building.</p>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-weekly">Every Week</span>
+            </div>
+            <p>Small batch artisan sourdough breads, focaccia, scones, cookies, cakes, and seasonal kringla, all handmade in Blue Earth. Sales support preservation of our historic cooperative building.</p>
             <div class="pills" style="margin-top: 12px;">
                 <span class="tag">Sourdough Bread</span>
                 <span class="tag">Scones</span>
                 <span class="tag">Cookies</span>
                 <span class="tag">Cakes</span>
                 <span class="tag">Kringla</span>
+                <span class="tag">Local</span>
             </div>
             <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
                 <a href="https://www.facebook.com/BlueEarthCoopBakery/" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
@@ -56,15 +79,19 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
 
         <!-- Bread and Book Bakery -->
         <div class="card">
-            <div class="section-label">Bakery &amp; Books</div>
+            <div class="section-label">Bakery &amp; Treats</div>
             <h2>Bread and Book Bakery</h2>
-            <p>Artisan sourdough breads and baked goods with a creative twist. Features unique "Blind Date with a Book" concept alongside fresh cookies, muffins, and specialty sandwiches. Located right here in Blue Earth.</p>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-most">Most Weeks</span>
+            </div>
+            <p>Artisan sourdough breads and baked goods with a creative twist. Features unique "Blind Date with a Book" concept alongside fresh cookies, muffins, and specialty items. Located in Blue Earth.</p>
             <div class="pills" style="margin-top: 12px;">
                 <span class="tag">Sourdough Bread</span>
                 <span class="tag">Cookies</span>
                 <span class="tag">Muffins</span>
                 <span class="tag">Books</span>
                 <span class="tag">Local</span>
+                <span class="tag">Creative</span>
             </div>
             <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
                 <a href="https://www.facebook.com/Breadandbook" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
@@ -73,25 +100,18 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
 
         <!-- Broken Nickel Plants -->
         <div class="card">
-            <div class="section-label">Plants</div>
+            <div class="section-label">Plants &amp; Garden</div>
             <h2>Broken Nickel Plants</h2>
-            <p>Seasonal plants to brighten your home or garden. Check back as the season progresses for what's available.</p>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-seasonal">Seasonal</span>
+            </div>
+            <p>Quality seasonal plants to brighten your home or garden. Selection varies by season with spring starts, summer flowers, and fall decorative plants available throughout the growing season.</p>
             <div class="pills" style="margin-top: 12px;">
                 <span class="tag">Plants</span>
                 <span class="tag">Seasonal</span>
-            </div>
-        </div>
-
-        <!-- Drip Ink Designs -->
-        <div class="card">
-            <div class="section-label">Art &amp; Design</div>
-            <h2>Drip Ink Designs</h2>
-            <p>Custom art and design services bringing creative visions to life. Unique pieces and personalized designs for every style and occasion.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Custom Art</span>
-                <span class="tag">Design</span>
-                <span class="tag">Creative</span>
-                <span class="tag">Personalized</span>
+                <span class="tag">Garden</span>
+                <span class="tag">Spring Starts</span>
+                <span class="tag">Flowers</span>
             </div>
         </div>
 
@@ -99,12 +119,16 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
         <div class="card">
             <div class="section-label">Handmade Goods</div>
             <h2>Ghostly Paracord</h2>
-            <p>Handmade paracord creations including keychains, lanyards, phone cords, zip pulls, and dog leashes. Durable, practical, and uniquely made.</p>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-most">Most Weeks</span>
+            </div>
+            <p>Handmade paracord creations including keychains, lanyards, phone cords, zip pulls, and durable dog leashes. Each piece is carefully crafted for both function and style.</p>
             <div class="pills" style="margin-top: 12px;">
                 <span class="tag">Keychains</span>
                 <span class="tag">Lanyards</span>
                 <span class="tag">Dog Leashes</span>
                 <span class="tag">Phone Cords</span>
+                <span class="tag">Handmade</span>
             </div>
             <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
                 <a href="https://www.facebook.com/share/17VTphirid/?mibextid=wwXIfr" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
@@ -115,58 +139,79 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
         <div class="card">
             <div class="section-label">Farm Fresh Produce</div>
             <h2>Goemann Produce</h2>
-            <p>Fresh homegrown vegetables and farm eggs straight from the Goemann family farm. Asparagus, rhubarb, tomatoes, cucumbers, green beans, leafy greens, and more — what's in season is what's at the booth.</p>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-most">Most Weeks</span>
+            </div>
+            <p>Fresh homegrown vegetables and farm eggs straight from the Goemann family farm. Seasonal offerings include asparagus, rhubarb, tomatoes, cucumbers, green beans, leafy greens, and fresh eggs.</p>
             <div class="pills" style="margin-top: 12px;">
                 <span class="tag">Asparagus</span>
                 <span class="tag">Rhubarb</span>
                 <span class="tag">Tomatoes</span>
                 <span class="tag">Cucumbers</span>
-                <span class="tag">Eggs</span>
-                <span class="tag">Seasonal Greens</span>
+                <span class="tag">Farm Eggs</span>
+                <span class="tag">Seasonal</span>
             </div>
             <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
                 <a href="https://www.facebook.com/profile.php?id=61573977967733" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-                <a href="https://goemannproduce.com/" target="_blank" rel="noopener" class="btn btn-primary" style="font-size: 0.82rem; padding: 8px 16px;">Website</a>
             </div>
         </div>
 
-        <!-- Granada Gardens -->
+        <!-- Ope! Oddities -->
         <div class="card">
-            <div class="section-label">Farm Stand</div>
-            <h2>Granada Gardens</h2>
-            <p>Self-serve honor system vegetable stand offering fresh seasonal produce. Very popular with the community for its convenient honor-based system and quality vegetables.</p>
+            <div class="section-label">Curiosities &amp; Collectibles</div>
+            <h2>Ope! Oddities</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-occasional">Occasional</span>
+            </div>
+            <p>Unique oddities, curiosities, crystals, and taxidermy for collectors and the curious. If you've never seen anything quite like it before, you'll probably find it here.</p>
             <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Vegetables</span>
-                <span class="tag">Honor System</span>
-                <span class="tag">Seasonal</span>
-                <span class="tag">Self-Serve</span>
+                <span class="tag">Crystals</span>
+                <span class="tag">Oddities</span>
+                <span class="tag">Taxidermy</span>
+                <span class="tag">Curiosities</span>
+                <span class="tag">Collectibles</span>
             </div>
             <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/share/18Pbt96KRY/?mibextid=wwXIfr" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
+                <a href="https://www.facebook.com/profile.php?id=61563491210803" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
 
-        <!-- Mia Bella's Candles -->
+        <!-- Shelley Caldwell-Visual Artist -->
         <div class="card">
-            <div class="section-label">Candles &amp; Home Goods</div>
-            <h2>Mia Bella's Candles</h2>
-            <p>Beautiful handcrafted candles and home goods. Each piece is carefully made to bring warmth and ambiance to your home.</p>
+            <div class="section-label">Art &amp; Design</div>
+            <h2>Shelley Caldwell-Visual Artist</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-occasional">Occasional</span>
+            </div>
+            <p>Original mixed media works on paper, prints, stickers, and live plants. Beautiful art pieces combining creativity with nature, specializing in framed glass works and unique visual expressions.</p>
             <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Candles</span>
-                <span class="tag">Home Goods</span>
-                <span class="tag">Handcrafted</span>
+                <span class="tag">Mixed Media Art</span>
+                <span class="tag">Prints</span>
+                <span class="tag">Stickers</span>
+                <span class="tag">Live Plants</span>
+                <span class="tag">Original Art</span>
+            </div>
+            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
+                <a href="https://www.facebook.com/shelley.caldwell1" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
+                <a href="https://www.shelleycaldwell.com/" target="_blank" rel="noopener" class="btn btn-primary" style="font-size: 0.82rem; padding: 8px 16px;">Website</a>
+                <a href="https://www.instagram.com/scald_art/" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Instagram</a>
             </div>
         </div>
 
         <!-- The Mustard Tree -->
         <div class="card">
-            <div class="section-label">Honey, Teas &amp; Salves</div>
+            <div class="section-label">Food &amp; Specialties</div>
             <h2>The Mustard Tree</h2>
-            <p>Spiced honey, herbal teas, and handcrafted salves. Small batch, locally made, and full of good things.</p>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-most">Most Weeks</span>
+            </div>
+            <p>Spiced honey, herbal teas, and handcrafted salves made in small batches with care. Local ingredients and traditional methods create unique products full of good things.</p>
             <div class="pills" style="margin-top: 12px;">
                 <span class="tag">Spiced Honey</span>
-                <span class="tag">Teas</span>
+                <span class="tag">Herbal Teas</span>
                 <span class="tag">Salves</span>
+                <span class="tag">Small Batch</span>
+                <span class="tag">Natural</span>
             </div>
             <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
                 <a href="https://www.facebook.com/profile.php?id=61558147275384" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
@@ -175,9 +220,12 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
 
         <!-- Treats & Treasures By Laura & Milo -->
         <div class="card">
-            <div class="section-label">Baked Goods &amp; Pet Treats</div>
+            <div class="section-label">Bakery &amp; Pet Treats</div>
             <h2>Treats &amp; Treasures By Laura &amp; Milo</h2>
-            <p>Cottage food baked goods, dog treats and toys, plus unique arts and crafts items. A delightful mix of something for both humans and their furry friends!</p>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-occasional">Occasional</span>
+            </div>
+            <p>Cottage food baked goods, dog treats and toys, plus unique arts and crafts items. A delightful mix offering something special for both humans and their furry friends.</p>
             <div class="pills" style="margin-top: 12px;">
                 <span class="tag">Baked Goods</span>
                 <span class="tag">Dog Treats</span>
@@ -190,51 +238,20 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             </div>
         </div>
 
-        <!-- Ope! Oddities -->
-        <div class="card">
-            <div class="section-label">Curiosities &amp; Crystals</div>
-            <h2>Ope! Oddities</h2>
-            <p>Unique oddities, curiosities, crystals, and taxidermy for the collector and the curious. If you've never seen anything like it, you'll probably find it here.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Crystals</span>
-                <span class="tag">Oddities</span>
-                <span class="tag">Taxidermy</span>
-                <span class="tag">Curiosities</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/profile.php?id=61563491210803" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-            </div>
-        </div>
-
-        <!-- Shelley Caldwell-Visual Artist -->
-        <div class="card">
-            <div class="section-label">Visual Art &amp; Plants</div>
-            <h2>Shelley Caldwell-Visual Artist</h2>
-            <p>Original mixed media works on paper, prints, stickers, and live plants. Beautiful art pieces combining creativity with nature, specializing in framed glass works and unique visual expressions.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Mixed Media Art</span>
-                <span class="tag">Prints</span>
-                <span class="tag">Stickers</span>
-                <span class="tag">Live Plants</span>
-                <span class="tag">Original Drawings</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/shelley.caldwell1" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-                <a href="https://www.shelleycaldwell.com/" target="_blank" rel="noopener" class="btn btn-primary" style="font-size: 0.82rem; padding: 8px 16px;">Website</a>
-                <a href="https://www.instagram.com/scald_art/?__pwa=1" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Instagram</a>
-            </div>
-        </div>
-
         <!-- True North Floral -->
         <div class="card">
             <div class="section-label">Flowers &amp; Vegetables</div>
             <h2>True North Floral</h2>
-            <p>Fresh flowers and seasonal vegetables, seeking weekly market participation. Beautiful blooms and farm-fresh produce for your home and table.</p>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-weekly">Every Week</span>
+            </div>
+            <p>Fresh flowers and seasonal vegetables grown with care. Beautiful blooms for your home and farm-fresh produce for your table, bringing nature's bounty to the market.</p>
             <div class="pills" style="margin-top: 12px;">
                 <span class="tag">Fresh Flowers</span>
                 <span class="tag">Vegetables</span>
                 <span class="tag">Seasonal</span>
                 <span class="tag">Farm Fresh</span>
+                <span class="tag">Local Grown</span>
             </div>
             <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
                 <a href="https://www.facebook.com/share/1ECMZvtv5k/?mibextid=wwXIfr" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
@@ -244,17 +261,18 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
 
         <!-- Vitas Tamales -->
         <div class="card">
-            <div class="section-label">Mexican Food</div>
+            <div class="section-label">Food &amp; Specialties</div>
             <h2>Vitas Tamales</h2>
-            <p>Authentic homemade tamales featuring traditional recipes with spicy chicken, spicy pork, cheese, and cheese with jalapeño varieties. Made with love and traditional methods.</p>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-most">Most Weeks</span>
+            </div>
+            <p>Authentic homemade tamales featuring traditional recipes with spicy chicken, spicy pork, cheese, and cheese with jalapeño varieties. Made with love using time-honored methods.</p>
             <div class="pills" style="margin-top: 12px;">
                 <span class="tag">Tamales</span>
                 <span class="tag">Mexican Food</span>
                 <span class="tag">Homemade</span>
                 <span class="tag">Traditional</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/share/14YbqXWbBcp/?mibextid=wwXIfr" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
+                <span class="tag">Authentic</span>
             </div>
         </div>
 
