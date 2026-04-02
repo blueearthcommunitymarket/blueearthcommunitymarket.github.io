@@ -385,11 +385,13 @@ description: Live music events at the Ryno Community Lot featuring local and tou
         
         <!-- PayPal Donation Button -->
         <div style="margin: 20px 0;">
-            <form action="https://www.paypal.com/donate" method="post" target="_top">
-                <input type="hidden" name="hosted_button_id" value="Q22KFR524A3S4" />
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-                <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-            </form>
+            <script src="https://www.paypal.com/sdk/js?client-id=BAAIJd7nJGdVaBqXMaCphPE2q0mcm5XjRR9km1KVkZM0Hgm8ACZznLcP9EoWZNIozUNr_xjIiQdC0Q1WlA&components=hosted-buttons&enable-funding=venmo&currency=USD"></script>
+            <div id="paypal-container-BLRMF7NXJW93S"></div>
+            <script>
+                paypal.HostedButtons({
+                    hostedButtonId: "BLRMF7NXJW93S",
+                }).render("#paypal-container-BLRMF7NXJW93S")
+            </script>
         </div>
         
         <p style="margin-top: 16px; font-size: 0.92rem; color: var(--brown-light);">Thank you for supporting the Blue Earth community! 🌻</p>
