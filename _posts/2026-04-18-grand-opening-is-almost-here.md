@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Grand Opening is Almost Here! Join Us May 2"
+date: 2026-04-18
+tags: [announcement, grand opening, vendors]
+---
+
+Two weeks to go! The Blue Earth Community Market opens for the 2026 season on **Saturday, May 2 from 10am to 1pm** at the Ryno Community Lot (112 S. Grove St, Blue Earth).
+
+## Opening Day Vendors
+
+We're thrilled to have eight vendors ready for Grand Opening:
+
+- **Blue Earth Cooperative Bakery** - Sourdough breads, scones, cookies, and kringla
+- **Bread and Book Bakery** - Artisan sourdough and "Blind Date with a Book"
+- **The One n Only Sweet Spot** - Cookies, cupcakes, brownies, and mini cakes
+- **Goemann Produce** - Fresh seasonal produce
+- **Broken Nickel Plants** - Seasonal plants, garden starts, and flowers
+- **Ghostly Paracord** - Handcrafted paracord keychains, lanyards, and leashes
+- **Alluring Tranquility** - Skincare, soaps, candles, and wellness products
+- **Vita's Tamales** - Homemade tamales in four varieties
+- **Treats & Treasures By Laura & Milo** - Homemade treats and handcrafted treasures
+
+## More Than a Market
+
+The Ryno Community Lot comes alive on Saturdays with more than just the market. Food trucks roll in throughout the week, live music fills Friday nights at Ryno's Rockin' Roll-In, and the Hi-Way Motorfest brings car enthusiasts together all season long. Check the [calendar](/calendar/) and [food truck schedule](/ryno-food-lot/) on our website for the full lineup.
+
+## Getting the Word Out
+
+We've been busy. New website, active Facebook page, vendor spotlights running each week, and as of this week, the Blue Earth Community Market is officially a member of the Blue Earth Area Chamber of Commerce. We're doing everything we can to make sure the community knows about May 2.
+
+## The Details
+
+- **When:** Saturday, May 2, 10am-1pm
+- **Where:** Ryno Community Lot, 112 S. Grove St, Blue Earth, MN
+- **Every Saturday** through October 31
+- **Free admission**
+- **Leashed pets welcome**
+
+See you there! 🌻
+
+*— The Blue Earth Community Market Team*
