@@ -18,7 +18,7 @@ We're thrilled to have eight vendors ready for Grand Opening:
 - **[Broken Nickel Plants](/vendor-spotlight/)** - Seasonal plants, garden starts, and flowers
 - **[Ghostly Paracord](https://www.facebook.com/share/17VTphirid/?mibextid=wwXIfr)** - Handcrafted paracord keychains, lanyards, and leashes
 - **[Alluring Tranquility](https://www.facebook.com/Alluringtranquility)** - Skincare, soaps, candles, and wellness products
-- **Vita's Tamales** - Homemade tamales in four varieties
+- **[Vita's Tamales](https://www.facebook.com/profile.php?id=61579135743764)** - Homemade tamales in four varieties
 - **[Treats & Treasures By Laura & Milo](https://www.facebook.com/TreatsTreasuresLM/)** - Homemade treats and handcrafted treasures
 
 ## More Than a Market
