@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to Our Brand New Website! 🌻"
 date: 2026-03-30
+tags: [announcement, website]
 ---
 
 Hey Blue Earth community! We're so excited to share our shiny new website with you. After months of planning and building, we finally have a digital home that showcases everything we love about our Saturday Community Market and all of the other events that take place at the Ryno Community Lot.
@@ -28,7 +29,7 @@ We couldn't do this without all of you.
 
 ## **See You May 2nd!**
 
-Our 2026 season kicks off on **Saturday, May 2nd** from **10 AM to 2 PM** at the **Ryno Community Lot** (112 S Grove St). We'll be there every Saturday through October 31st, rain or shine (well, mostly shine, we hope!).
+Our 2026 season kicks off on **Saturday, May 2nd** from **10 AM to 1 PM** at the **Ryno Community Lot** (112 S Grove St). We'll be there every Saturday through October 31st, rain or shine (well, mostly shine, we hope!).
 
 Browse around the new site, discover some vendors you haven't tried yet, and mark your calendars for opening day. We can't wait to see you there!
 
