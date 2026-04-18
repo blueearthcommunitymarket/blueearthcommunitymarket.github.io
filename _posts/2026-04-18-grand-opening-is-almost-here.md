@@ -11,15 +11,15 @@ Two weeks to go! The Blue Earth Community Market opens for the 2026 season on **
 
 We're thrilled to have eight vendors ready for Grand Opening:
 
-- **Blue Earth Cooperative Bakery** - Sourdough breads, scones, cookies, and kringla
-- **Bread and Book Bakery** - Artisan sourdough and "Blind Date with a Book"
-- **The One n Only Sweet Spot** - Cookies, cupcakes, brownies, and mini cakes
-- **Goemann Produce** - Fresh seasonal produce
-- **Broken Nickel Plants** - Seasonal plants, garden starts, and flowers
-- **Ghostly Paracord** - Handcrafted paracord keychains, lanyards, and leashes
-- **Alluring Tranquility** - Skincare, soaps, candles, and wellness products
+- **[Blue Earth Cooperative Bakery](https://www.facebook.com/BlueEarthCoopBakery/)** - Sourdough breads, scones, cookies, and kringla
+- **[Bread and Book Bakery](https://www.facebook.com/Breadandbook)** - Artisan sourdough and "Blind Date with a Book"
+- **[The One n Only Sweet Spot](https://theonenonlysweetspot.myshopify.com/)** - Cookies, cupcakes, brownies, and mini cakes
+- **[Goemann Produce](https://www.facebook.com/profile.php?id=61573977967733)** - Fresh seasonal produce
+- **[Broken Nickel Plants](/vendor-spotlight/)** - Seasonal plants, garden starts, and flowers
+- **[Ghostly Paracord](https://www.facebook.com/share/17VTphirid/?mibextid=wwXIfr)** - Handcrafted paracord keychains, lanyards, and leashes
+- **[Alluring Tranquility](https://www.facebook.com/Alluringtranquility)** - Skincare, soaps, candles, and wellness products
 - **Vita's Tamales** - Homemade tamales in four varieties
-- **Treats & Treasures By Laura & Milo** - Homemade treats and handcrafted treasures
+- **[Treats & Treasures By Laura & Milo](https://www.facebook.com/TreatsTreasuresLM/)** - Homemade treats and handcrafted treasures
 
 ## More Than a Market
 
