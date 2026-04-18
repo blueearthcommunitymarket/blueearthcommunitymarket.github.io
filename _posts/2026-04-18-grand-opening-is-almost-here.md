@@ -23,7 +23,7 @@ We're thrilled to have eight vendors ready for Grand Opening:
 
 ## More Than a Market
 
-The Ryno Community Lot comes alive on Saturdays with more than just the market. Food trucks roll in throughout the week, live music fills Friday nights at Ryno's Rockin' Roll-In, and the Hi-Way Motorfest brings car enthusiasts together all season long. Check the [calendar](/calendar/) and [food truck schedule](/ryno-food-lot/) on our website for the full lineup.
+The Ryno Community Lot comes alive with more than just the market. Food trucks roll in throughout the week, live music fills Friday nights at Ryno's Rockin' Roll-In, and the Hi-Way Motorfest brings car enthusiasts together. Check the [calendar](/calendar/) and [food truck schedule](/ryno-food-lot/) on our website for the full lineup.
 
 ## Getting the Word Out
 
