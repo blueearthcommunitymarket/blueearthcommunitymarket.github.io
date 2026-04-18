@@ -27,7 +27,7 @@ The Ryno Community Lot comes alive with more than just the market. Food trucks r
 
 ## Getting the Word Out
 
-We've been busy. New website, active Facebook page, vendor spotlights running each week, and as of this week, the Blue Earth Community Market is officially a member of the Blue Earth Area Chamber of Commerce. We're doing everything we can to make sure the community knows about May 2.
+We've been busy. New website, active Facebook page, vendor spotlights running each week, and as of this week, the Blue Earth Community Market is officially a member of the [Blue Earth Area Chamber of Commerce](https://blueearthchamber.com/index.php). We're doing everything we can to make sure the community knows about May 2.
 
 ## The Details
 
