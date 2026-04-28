@@ -18,6 +18,6 @@ What makes Vita's Tamales special is the care behind the food and the quality of
 We are glad to have Vita's Tamales as part of the Blue Earth Community Market and hope you stop by to try a plate or take home some tamales for later.
 
 You can connect here:
-- **Facebook:** page name listed as *Vita's Tamales*
+- **Facebook:** [Vita's Tamales](https://www.facebook.com/profile.php?id=61579135743764)
 - **WhatsApp (Español):** [346-260-0073](https://wa.me/13462600073)
 - **WhatsApp (English):** [507-525-7000](https://wa.me/15075257000)

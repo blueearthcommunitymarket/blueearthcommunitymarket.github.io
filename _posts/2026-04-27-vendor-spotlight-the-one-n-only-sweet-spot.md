@@ -16,4 +16,5 @@ We are excited to have Amylia as part of the Blue Earth Community Market vendor 
 Sweet treats, local makers, and Saturdays in Blue Earth, that sounds like a pretty good combination to us.
 
 You can learn more here:
-- **Website:** <https://theonenonlysweetspot.myshopify.com/>
+- **Facebook:** [The One n Only Sweet Spot](https://www.facebook.com/profile.php?id=61587575891060)
+- **Website:** [theonenonlysweetspot.myshopify.com](https://theonenonlysweetspot.myshopify.com/)

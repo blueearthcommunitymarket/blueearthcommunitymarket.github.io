@@ -18,4 +18,4 @@ There is more to come, too. Along with their popular **Meet Me at the Market** s
 We love the energy Little Ryno Stand brings to the Blue Earth Community Market, and we hope you stop by to say hello.
 
 You can follow along here:
-- **Facebook:** <https://www.facebook.com/share/1EXTTPw7N3/?mibextid=wwXIfr>
+- **Facebook:** [Little Ryno Stand](https://www.facebook.com/share/1EXTTPw7N3/?mibextid=wwXIfr)

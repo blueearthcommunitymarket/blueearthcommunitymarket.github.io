@@ -16,5 +16,5 @@ A few favorites to look for include artisan sourdough loaves, soft sandwich brea
 Wensdae says she feels called to feed others, break bread with friends often, and create spaces where people feel welcomed, cared for, and at home. We love that heart behind the business, and we're so glad to have Bread and Book Bakery as part of the Blue Earth Community Market community.
 
 You can follow along here:
-- **Facebook:** <https://www.facebook.com/share/1Ci2q5Gd3t/?mibextid=wwXIfr>
-- **Linktree:** <https://linktr.ee/wonderfullywensdae>
+- **Facebook:** [Bread and Book Bakery](https://www.facebook.com/Breadandbook)
+- **Linktree:** [linktr.ee/wonderfullywensdae](https://linktr.ee/wonderfullywensdae)

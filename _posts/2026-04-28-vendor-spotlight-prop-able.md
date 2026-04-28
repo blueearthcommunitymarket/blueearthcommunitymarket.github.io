@@ -18,3 +18,6 @@ What makes Prop-Able especially unique is that they grow **year-round**, and the
 They moved to Blue Earth after buying their first home together sight unseen, ready to put down roots here. We are glad they did. We are also proud to feature Prop-Able as a **100% neurodivergent-owned** business at the market.
 
 Come meet Rose and Drippy at the Blue Earth Community Market and see what they have growing.
+
+You can follow along here:
+- **Facebook:** [Prop-Able](https://www.facebook.com/profile.php?id=61567660825823)
