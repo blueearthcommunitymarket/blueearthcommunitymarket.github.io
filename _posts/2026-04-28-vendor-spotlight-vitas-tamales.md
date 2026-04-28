@@ -7,7 +7,7 @@ tags: [vendor spotlight, food, vendors]
 
 We are excited to spotlight **Vita's Tamales**, bringing traditional Mexican food and family recipes to the Blue Earth Community Market.
 
-![Vita's Tamales at Blue Earth Community Market](/assets/images/vendors/vitas-tamales-2026-04-28.jpg)
+<img src="/assets/images/vendors/vitas-tamales-2026-04-28.jpg" alt="Vita's Tamales at Blue Earth Community Market" style="max-width: 420px; width: 100%; height: auto; display: block; margin: 1rem auto; border-radius: 12px;">
 
 Owner **Ma E Raminez** shared that the business grew from the tamales her grandmother made for family celebrations. After moving from Mexico to Texas, she kept that tradition alive by cooking for family and friends. Over time, more people began asking her to make tamales and other dishes for their events, and that is how Vita's Tamales was born.
 
