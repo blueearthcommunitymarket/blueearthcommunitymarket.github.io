@@ -7,6 +7,8 @@ tags: [vendor spotlight, bakery, vendors]
 
 We're excited to spotlight **Bread and Book Bakery**, a cozy Blue Earth business where loaves meet literature.
 
+<img src="/assets/images/vendors/bread-and-book-bakery.png" alt="Bread and Book Bakery at Blue Earth Community Market" style="max-width: 420px; width: 100%; height: auto; display: block; margin: 1rem auto; border-radius: 12px;">
+
 Owner and baker **Wensdae Mitchell** is also a writer and published author, and that blend of baking and storytelling shows up in everything she creates. Bread and Book Bakery offers small-batch sourdough breads, sweet baked goods, and thoughtful **Blind Date with a Book** bundles that pair a cozy read with treats.
 
 What started in Wensdae's kitchen has grown into a business built on comfort, creativity, and connection. Her porch stand is a self-serve extension of that same welcoming spirit, stocked with fresh sourdough, baked goods, published books, and book bundles wrapped with care.

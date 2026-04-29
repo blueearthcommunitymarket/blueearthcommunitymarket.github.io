@@ -7,6 +7,8 @@ tags: [vendor spotlight, plants, vendors]
 
 Say hello to **Prop-Able**, an experimental growing operation rooted in sustainability, curiosity, and community.
 
+<img src="/assets/images/vendors/prop-able.png" alt="Prop-Able at Blue Earth Community Market" style="max-width: 420px; width: 100%; height: auto; display: block; margin: 1rem auto; border-radius: 12px;">
+
 For public market features, the team prefers to go by **Rose and Drippy**. They grow indoor hydroponic food and houseplants using low-power methods, including partially solar and eco-focused growing systems.
 
 Their journey started with a simple question: why were their plants not growing well with their earlier equipment? That question led to deeper study in horticulture, light science, and practical experimentation. The result is a flourishing garden built on simple, repeatable techniques and a lot of hands-on learning.
