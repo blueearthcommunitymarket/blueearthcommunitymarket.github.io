@@ -1,0 +1,82 @@
+---
+layout: default
+title: Vendor Feedback
+description: Quick feedback survey for Blue Earth Community Market vendors.
+---
+
+<div class="page-header">
+    <h1>Vendor Feedback Survey</h1>
+    <p>Blue Earth Community Market</p>
+</div>
+
+<div class="site-main">
+
+    <div class="card">
+        <div class="section-label">Thank You</div>
+        <h2>We’re Glad You Joined Us</h2>
+        <p>Thank you so much for coming out and being part of the Blue Earth Community Market. We really appreciate you being here and would love your feedback so we can keep making the market even better.</p>
+        <p>This should only take about 2 minutes.</p>
+        <hr class="divider">
+
+        <form action="https://script.google.com/macros/s/AKfycbxXq-ASfHPGtE0PARnjhXWpPxBqBr9wJDIdk2r-qXpi6pMhL_iSbopPmQfczxhzUuko/exec" method="POST">
+            <input type="hidden" name="_name" value="BECM Vendor Feedback Survey">
+            <input type="hidden" name="_notify" value="info@blueearthcommunitymarket.com">
+            <input type="hidden" name="_meta" value="true">
+
+            <div class="form-field">
+                <label for="vendor_name">Vendor business name *</label>
+                <input type="text" id="vendor_name" name="vendor_name" required>
+            </div>
+
+            <div class="form-field">
+                <label for="overall_experience">Overall, how was your experience at today’s market? *</label>
+                <select id="overall_experience" name="overall_experience" required>
+                    <option value="">Select one</option>
+                    <option value="Excellent">Excellent</option>
+                    <option value="Good">Good</option>
+                    <option value="Fair">Fair</option>
+                    <option value="Poor">Poor</option>
+                </select>
+            </div>
+
+            <div class="form-field">
+                <label for="communication_setup">How clear and helpful was communication before and during setup? *</label>
+                <select id="communication_setup" name="communication_setup" required>
+                    <option value="">Select one</option>
+                    <option value="Very clear and helpful">Very clear and helpful</option>
+                    <option value="Mostly clear">Mostly clear</option>
+                    <option value="Somewhat unclear">Somewhat unclear</option>
+                    <option value="Not clear/helpful">Not clear/helpful</option>
+                </select>
+            </div>
+
+            <div class="form-field">
+                <label for="traffic_sales">How would you rate customer traffic and sales today? *</label>
+                <select id="traffic_sales" name="traffic_sales" required>
+                    <option value="">Select one</option>
+                    <option value="Better than expected">Better than expected</option>
+                    <option value="About what I expected">About what I expected</option>
+                    <option value="A little lower than expected">A little lower than expected</option>
+                    <option value="Much lower than expected">Much lower than expected</option>
+                </select>
+            </div>
+
+            <div class="form-field">
+                <label for="best_part">What was the best part of your experience today? *</label>
+                <textarea id="best_part" name="best_part" placeholder="Tell us what went well..." required></textarea>
+            </div>
+
+            <div class="form-field">
+                <label for="improvement">What is one thing we should improve for next time? *</label>
+                <textarea id="improvement" name="improvement" placeholder="Tell us what we can do better..." required></textarea>
+            </div>
+
+            <div class="form-submit">
+                <button type="submit" class="btn btn-primary">Send Feedback</button>
+            </div>
+
+            <p class="form-note" style="margin-top: 14px;">Thank you again for being part of the market. We appreciate your time and feedback.</p>
+        </form>
+    </div>
+
+</div>
