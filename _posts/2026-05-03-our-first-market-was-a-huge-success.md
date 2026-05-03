@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Our First Market of 2026 Was a Huge Success"
-date: 2026-05-03 10:00:00 -0500
+date: 2026-05-03 08:55:00 -0500
 tags: [market recap, community, vendors]
 ---
 
