@@ -12,10 +12,10 @@ Ryno's Rockin' Roll-In starts this week, and we are excited to finally share the
 This is not meant to be anything complicated. It is a night to come out, grab supper, listen to live music, and enjoy being part of the crowd. Whatever you ride, however you sit, just come and enjoy a great night of live music.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin: 2rem 0;">
-  <img src="/assets/images/news/2026-05-25-rockin-roll-in/rockin-roll-in-poster-1.jpg" alt="Ryno's Rockin' Roll-In promo poster" style="width: 100%; height: auto; display: block; border-radius: 12px;">
-  <img src="/assets/images/news/2026-05-25-rockin-roll-in/rockin-roll-in-poster-2.jpg" alt="Ryno's Rockin' Roll-In artist promo poster" style="width: 100%; height: auto; display: block; border-radius: 12px;">
-  <img src="/assets/images/news/2026-05-25-rockin-roll-in/rockin-roll-in-poster-3.jpg" alt="Ryno's Rockin' Roll-In community vibe poster" style="width: 100%; height: auto; display: block; border-radius: 12px;">
-  <img src="/assets/images/news/2026-05-25-rockin-roll-in/rockin-roll-in-poster-4.jpg" alt="Ryno's Rockin' Roll-In donations poster" style="width: 100%; height: auto; display: block; border-radius: 12px;">
+  <img src="/assets/images/news/2026-05-25-rockin-roll-in/rockin-roll-in-poster-1.jpg" alt="Ryno's Rockin' Roll-In Monday focus poster" style="width: 100%; height: auto; display: block; border-radius: 12px;">
+  <img src="/assets/images/news/2026-05-25-rockin-roll-in/rockin-roll-in-poster-4.jpg" alt="Ryno's Rockin' Roll-In Tuesday focus poster" style="width: 100%; height: auto; display: block; border-radius: 12px;">
+  <img src="/assets/images/news/2026-05-25-rockin-roll-in/rockin-roll-in-poster-2.jpg" alt="Ryno's Rockin' Roll-In Wednesday focus poster" style="width: 100%; height: auto; display: block; border-radius: 12px;">
+  <img src="/assets/images/news/2026-05-25-rockin-roll-in/rockin-roll-in-poster-3.jpg" alt="Ryno's Rockin' Roll-In Thursday focus poster" style="width: 100%; height: auto; display: block; border-radius: 12px;">
 </div>
 
 Our first Rockin' Roll-In of the season is:
