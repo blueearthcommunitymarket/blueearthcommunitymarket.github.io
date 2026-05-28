@@ -772,14 +772,14 @@
                 <li><a href="/" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
                 <li><a href="/news/" {% if page.url contains '/news' %}class="active"{% endif %}>News</a></li>
                 <li><a href="/calendar/" {% if page.url contains '/calendar' %}class="active"{% endif %}>Calendar</a></li>
+                <li><a href="/open-mic/" {% if page.url contains '/open-mic' %}class="active"{% endif %}>Open Mic</a></li>
                 <li><a href="/vendors/" {% if page.url contains '/vendors' %}class="active"{% endif %}>Join Us</a></li>
                 <li><a href="/vendor-spotlight/" {% if page.url contains '/vendor-spotlight' %}class="active"{% endif %}>Our Vendors</a></li>
                 <li class="nav-dropdown">
-                    <a href="#" class="nav-dropdown-toggle" {% if page.url contains '/hi-way-motorfest' or page.url contains '/ryno-food-lot' or page.url contains '/rynos-rockin-roll-in' or page.url contains '/open-mic' %}class="active"{% endif %}>Ryno Community Lot</a>
+                    <a href="#" class="nav-dropdown-toggle" {% if page.url contains '/hi-way-motorfest' or page.url contains '/ryno-food-lot' or page.url contains '/rynos-rockin-roll-in' %}class="active"{% endif %}>Ryno Community Lot</a>
                     <ul class="nav-dropdown-menu">
                         <li><a href="/ryno-food-lot/" {% if page.url contains '/ryno-food-lot' %}class="active"{% endif %}>Ryno Food Lot</a></li>
                         <li><a href="/rynos-rockin-roll-in/" {% if page.url contains '/rynos-rockin-roll-in' %}class="active"{% endif %}>Rockin' Roll-In</a></li>
-                        <li><a href="/open-mic/" {% if page.url contains '/open-mic' %}class="active"{% endif %}>Open Mic Signup</a></li>
                         <li><a href="/hi-way-motorfest/" {% if page.url contains '/hi-way-motorfest' %}class="active"{% endif %}>Hi-Way Motorfest</a></li>
                     </ul>
                 </li>
