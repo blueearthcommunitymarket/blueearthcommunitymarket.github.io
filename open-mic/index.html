@@ -1,0 +1,313 @@
+---
+layout: default
+title: Open Mic Signup
+description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth, Minnesota.
+---
+
+<style>
+.openmic-hero {
+    background:
+        radial-gradient(circle at 20% 20%, rgba(255, 236, 163, 0.28) 0, rgba(255, 236, 163, 0.06) 18%, transparent 32%),
+        radial-gradient(circle at 78% 24%, rgba(255, 214, 102, 0.24) 0, rgba(255, 214, 102, 0.05) 16%, transparent 28%),
+        radial-gradient(circle at 50% 72%, rgba(255, 246, 209, 0.14) 0, rgba(255, 246, 209, 0.03) 14%, transparent 26%),
+        linear-gradient(160deg, #10162f 0%, #1d2345 48%, #35224f 100%);
+    color: #fff8e6;
+    padding: 64px 20px 58px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    border-top: 4px solid #f0c55a;
+    border-bottom: 4px solid #f0c55a;
+}
+
+.openmic-hero::before {
+    content: "✦ ✦ ✦";
+    position: absolute;
+    top: 18px;
+    left: 50%;
+    transform: translateX(-50%);
+    letter-spacing: 18px;
+    color: rgba(255, 241, 194, 0.72);
+    font-size: 1rem;
+}
+
+.openmic-hero::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image:
+        radial-gradient(circle at 12% 28%, rgba(255,255,255,0.95) 0 1px, transparent 2px),
+        radial-gradient(circle at 30% 16%, rgba(255,245,210,0.8) 0 1.5px, transparent 2.5px),
+        radial-gradient(circle at 68% 20%, rgba(255,255,255,0.9) 0 1px, transparent 2px),
+        radial-gradient(circle at 82% 34%, rgba(255,245,210,0.75) 0 1.5px, transparent 2.5px),
+        radial-gradient(circle at 20% 70%, rgba(255,255,255,0.85) 0 1px, transparent 2px),
+        radial-gradient(circle at 56% 78%, rgba(255,245,210,0.7) 0 1.5px, transparent 2.5px),
+        radial-gradient(circle at 88% 72%, rgba(255,255,255,0.8) 0 1px, transparent 2px);
+    opacity: 0.7;
+    pointer-events: none;
+}
+
+.openmic-hero h1 {
+    position: relative;
+    z-index: 2;
+    font-family: 'Playfair Display', serif;
+    font-size: 3.1rem;
+    line-height: 1.05;
+    margin-bottom: 12px;
+    color: #fff8e6;
+    text-shadow: 0 3px 16px rgba(0, 0, 0, 0.35);
+}
+
+.openmic-hero .tagline {
+    position: relative;
+    z-index: 2;
+    font-size: 1.18rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #ffd86e;
+    margin-bottom: 10px;
+}
+
+.openmic-hero .subcopy {
+    position: relative;
+    z-index: 2;
+    max-width: 680px;
+    margin: 0 auto;
+    color: #f4ecdb;
+    font-size: 1.04rem;
+}
+
+.openmic-section {
+    background: linear-gradient(180deg, #fffdf8 0%, #f8f3e8 100%);
+    padding: 42px 20px;
+}
+
+.openmic-wrap {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.openmic-grid {
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr;
+    gap: 26px;
+    align-items: stretch;
+}
+
+.openmic-card {
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #d7c59d;
+    border-radius: 16px;
+    padding: 28px;
+    box-shadow: 0 10px 24px rgba(44, 34, 18, 0.08);
+}
+
+.openmic-card h2,
+.openmic-card h3 {
+    font-family: 'Playfair Display', serif;
+    color: #332545;
+}
+
+.openmic-card h2 {
+    font-size: 2rem;
+    margin-bottom: 12px;
+}
+
+.openmic-card h3 {
+    font-size: 1.35rem;
+    margin-bottom: 10px;
+}
+
+.openmic-card p,
+.openmic-card li {
+    color: #4e4030;
+}
+
+.signup-box {
+    background: linear-gradient(145deg, #2a2041 0%, #41295f 100%);
+    color: #fff8e6;
+    border: 1px solid rgba(240, 197, 90, 0.45);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.signup-box::before {
+    content: "★";
+    position: absolute;
+    top: 16px;
+    right: 18px;
+    color: rgba(255, 216, 110, 0.45);
+    font-size: 1.4rem;
+}
+
+.signup-box h2 {
+    color: #fff8e6;
+}
+
+.signup-box p {
+    color: #f4ecdb;
+}
+
+.openmic-note {
+    background: #fff5d8;
+    border-left: 4px solid #d1a537;
+    padding: 14px 16px;
+    border-radius: 8px;
+    margin-top: 18px;
+    color: #5a4520;
+    font-weight: 700;
+}
+
+.detail-list {
+    list-style: none;
+    padding: 0;
+    margin: 18px 0 0;
+}
+
+.detail-list li {
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+    color: #f4ecdb;
+}
+
+.detail-list li:last-child {
+    border-bottom: none;
+}
+
+.detail-label {
+    display: block;
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #ffd86e;
+    margin-bottom: 3px;
+}
+
+.steps {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-top: 22px;
+}
+
+.step-card {
+    background: #fff;
+    border: 1px solid #e2d6bc;
+    border-radius: 14px;
+    padding: 18px;
+}
+
+.step-number {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 999px;
+    background: #332545;
+    color: #fff8e6;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.step-card h4 {
+    font-family: 'Playfair Display', serif;
+    color: #332545;
+    font-size: 1.1rem;
+    margin-bottom: 6px;
+}
+
+.support-box {
+    margin-top: 24px;
+    background: #f0eadb;
+    border: 1px dashed #b89a5d;
+    border-radius: 14px;
+    padding: 18px 20px;
+}
+
+.support-box p {
+    margin: 0;
+}
+
+@media (max-width: 860px) {
+    .openmic-grid,
+    .steps {
+        grid-template-columns: 1fr;
+    }
+
+    .openmic-hero h1 {
+        font-size: 2.4rem;
+    }
+}
+</style>
+
+<section class="openmic-hero">
+    <div class="tagline">Ryno Community Lot</div>
+    <h1>Open Mic Signup</h1>
+    <p class="subcopy">Singers, pickers, poets, storytellers, and brave first-timers are all welcome. If you want a turn under the lights, grab a spot and let Morgan know what you are bringing.</p>
+</section>
+
+<section class="openmic-section">
+    <div class="openmic-wrap">
+        <div class="openmic-grid">
+            <div class="openmic-card">
+                <h2>A simple way to get on the lineup</h2>
+                <p>This page is here to make signup easy. We are using SignUpGenius for the actual open mic list, so performers can claim a spot without sending messages back and forth.</p>
+                <p>Before you sign up, please make note of one important detail: <strong>electricity is available, but sound equipment is not.</strong> If you need power, tell us in your signup so Morgan can plan around it.</p>
+
+                <div class="steps">
+                    <div class="step-card">
+                        <div class="step-number">1</div>
+                        <h4>Claim a spot</h4>
+                        <p>Use the signup link and choose the slot that works for you.</p>
+                    </div>
+                    <div class="step-card">
+                        <div class="step-number">2</div>
+                        <h4>Tell us your needs</h4>
+                        <p>Let Morgan know if you need electricity and what kind of setup you are bringing.</p>
+                    </div>
+                    <div class="step-card">
+                        <div class="step-number">3</div>
+                        <h4>Show up ready</h4>
+                        <p>Bring your instrument, cables, mic, stand, or anything else your set depends on.</p>
+                    </div>
+                </div>
+
+                <div class="support-box">
+                    <p><strong>Good fit for this setup:</strong> acoustic music, small amplified sets, spoken word, comedy, readings, and other simple live performances that do not require house gear.</p>
+                </div>
+            </div>
+
+            <div class="openmic-card signup-box">
+                <h2>Ready to sign up?</h2>
+                <p>Use the link below to reserve your open mic spot.</p>
+                <p style="margin: 22px 0 10px;">
+                    <a href="https://www.signupgenius.com/go/10C044BACA922AAF9C61-64339514-open" target="_blank" rel="noopener" class="btn btn-primary">Open Mic SignUpGenius →</a>
+                </p>
+                <div class="openmic-note">Electricity is available. Equipment is not provided.</div>
+
+                <ul class="detail-list" style="text-align: left;">
+                    <li>
+                        <span class="detail-label">Location</span>
+                        112 S Grove St, Blue Earth, MN
+                    </li>
+                    <li>
+                        <span class="detail-label">Hosted By</span>
+                        Morgan at the Ryno Community Lot
+                    </li>
+                    <li>
+                        <span class="detail-label">Bring Your Own Gear</span>
+                        Instruments, mics, stands, cords, and anything else your set needs
+                    </li>
+                    <li>
+                        <span class="detail-label">Need Power?</span>
+                        Please note that in your signup so we can plan around electrical access
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
