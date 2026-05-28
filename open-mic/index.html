@@ -279,7 +279,7 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
 <section class="openmic-hero">
     <div class="tagline">Ryno Community Lot</div>
     <h1>Open Mic Signup</h1>
-    <p class="subcopy">Singers, pickers, poets, storytellers, and brave first-timers are all welcome. Open mic runs during the Saturday community market, weather permitting, and stays outdoors only.</p>
+    <p class="subcopy">Singers, pickers, bands, and brave first-timers are all welcome. Open mic runs during the Saturday community market, weather permitting, and stays outdoors only.</p>
 </section>
 
 <section class="openmic-section">
@@ -287,7 +287,7 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
         <div class="card openmic-form-card">
             <div class="section-label">Performer Form</div>
             <h2>Send Us Your Performer Details</h2>
-            <p class="openmic-form-intro">After you claim a slot on SignUpGenius, fill this out so we know who to expect, what kind of act you are bringing, and whether you need electricity.</p>
+            <p class="openmic-form-intro">After you claim a slot on SignUpGenius, fill this out so we know who to expect, what kind of music you are bringing, and whether you need electricity.</p>
             <hr class="divider">
             <form action="https://script.google.com/macros/s/AKfycbxXq-ASfHPGtE0PARnjhXWpPxBqBr9wJDIdk2r-qXpi6pMhL_iSbopPmQfczxhzUuko/exec" method="POST">
                 <input type="hidden" name="_name" value="Ryno Community Lot Open Mic Signups 2026">
@@ -318,15 +318,8 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
 
                 <div class="form-grid">
                     <div class="form-field">
-                        <label for="performance_type">Type of Performance *</label>
-                        <select id="performance_type" name="performance_type" required>
-                            <option value="">Select one</option>
-                            <option value="music">Music</option>
-                            <option value="spoken_word">Spoken Word / Poetry</option>
-                            <option value="comedy">Comedy</option>
-                            <option value="storytelling">Storytelling / Reading</option>
-                            <option value="other">Other</option>
-                        </select>
+                        <label for="music_style">Music Style *</label>
+                        <input type="text" id="music_style" name="music_style" placeholder="Example: acoustic folk, country, classic rock" required>
                     </div>
                     <div class="form-field">
                         <label for="preferred_slot">Which slot did you claim on SignUpGenius? *</label>
@@ -335,8 +328,8 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
                 </div>
 
                 <div class="form-field">
-                    <label for="performance_description">What are you planning to perform? *</label>
-                    <textarea id="performance_description" name="performance_description" placeholder="Short set description, style, or song list..." required></textarea>
+                    <label for="performance_description">What are you planning to play? *</label>
+                    <textarea id="performance_description" name="performance_description" placeholder="Short set description, genre, or song list..." required></textarea>
                 </div>
 
                 <div class="form-grid">
@@ -374,7 +367,7 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
                 <div class="form-field">
                     <label style="display: flex; align-items: flex-start; gap: 10px; cursor: pointer;">
                         <input type="checkbox" name="rules_agreed" value="yes" required style="width: auto; margin-top: 3px; flex-shrink: 0;">
-                        <span style="font-size: 0.92rem; color: #3b2a1a; font-weight: 700;">I agree to keep my performance family friendly and understand the host may stop or decline content that is offensive or not a good fit for the community market.</span>
+                        <span style="font-size: 0.92rem; color: #3b2a1a; font-weight: 700;">I agree to keep my music family friendly and understand the host may stop or decline content that is offensive or not a good fit for the community market.</span>
                     </label>
                 </div>
 
@@ -411,7 +404,7 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
                 </div>
 
                 <div class="support-box">
-                    <p><strong>Good fit for this setup:</strong> acoustic music, small amplified sets, spoken word, comedy, readings, and other simple live performances that do not require house gear.</p>
+                    <p><strong>Good fit for this setup:</strong> acoustic music, solo performers, duos, and small amplified sets that do not require house gear.</p>
                 </div>
 
                 <h3 style="margin-top: 26px;">Open Mic Rules</h3>
@@ -420,7 +413,7 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
                     <li><strong>Weather permitting.</strong> Open mic is for outdoor market days only. If the market moves indoors for bad weather, open mic is canceled for that day.</li>
                     <li><strong>30-minute slots.</strong> Slots start at 10:00am and run every 30 minutes until 1:00pm.</li>
                     <li><strong>Bring your own gear.</strong> Electricity may be available, but performers need to bring their own instruments, mics, stands, cords, and other equipment.</li>
-                    <li><strong>Keep it community friendly.</strong> The host may stop or decline a performance that does not fit the tone of the market.</li>
+                    <li><strong>Keep it community friendly.</strong> The host may stop or decline music that does not fit the tone of the market.</li>
                 </ul>
             </div>
 
