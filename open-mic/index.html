@@ -232,9 +232,41 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
     margin: 0;
 }
 
+.rules-list {
+    margin: 20px 0 0;
+    padding-left: 20px;
+    line-height: 1.9;
+}
+
+.rules-list strong {
+    color: #332545;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+
+.openmic-form-card {
+    margin-top: 26px;
+}
+
+.openmic-form-intro {
+    margin-bottom: 18px;
+}
+
+.openmic-form-card .form-field[style] {
+    background: #f7f3ec !important;
+    border: 1px solid #c4a87a !important;
+    border-radius: 8px;
+    padding: 18px !important;
+}
+
 @media (max-width: 860px) {
     .openmic-grid,
-    .steps {
+    .steps,
+    .form-grid {
         grid-template-columns: 1fr;
     }
 
@@ -247,7 +279,7 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
 <section class="openmic-hero">
     <div class="tagline">Ryno Community Lot</div>
     <h1>Open Mic Signup</h1>
-    <p class="subcopy">Singers, pickers, poets, storytellers, and brave first-timers are all welcome. If you want a turn under the lights, grab a spot and let Morgan know what you are bringing.</p>
+    <p class="subcopy">Singers, pickers, poets, storytellers, and brave first-timers are all welcome. Open mic runs during the Saturday community market, weather permitting, and stays outdoors only.</p>
 </section>
 
 <section class="openmic-section">
@@ -255,19 +287,20 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
         <div class="openmic-grid">
             <div class="openmic-card">
                 <h2>A simple way to get on the lineup</h2>
-                <p>This page is here to make signup easy. We are using SignUpGenius for the actual open mic list, so performers can claim a spot without sending messages back and forth.</p>
-                <p>Before you sign up, please make note of one important detail: <strong>electricity is available, but sound equipment is not.</strong> If you need power, tell us in your signup so Morgan can plan around it.</p>
+                <p>This page is here to make signup easy. Use SignUpGenius to claim your time slot, then use the short performer form below to send Morgan your contact info and setup details.</p>
+                <p>Open mic runs <strong>every Saturday during the community market, weather permitting.</strong> If the market has to move indoors because of bad weather, open mic will not run that day.</p>
+                <p>Before you sign up, please make note of one important detail: <strong>electricity is available, but sound equipment is not.</strong> If you need power, tell us in your form so Morgan can plan around it.</p>
 
                 <div class="steps">
                     <div class="step-card">
                         <div class="step-number">1</div>
                         <h4>Claim a spot</h4>
-                        <p>Use the signup link and choose the slot that works for you.</p>
+                        <p>Use the signup link and choose one 30-minute slot between 10:00am and 1:00pm.</p>
                     </div>
                     <div class="step-card">
                         <div class="step-number">2</div>
-                        <h4>Tell us your needs</h4>
-                        <p>Let Morgan know if you need electricity and what kind of setup you are bringing.</p>
+                        <h4>Send your details</h4>
+                        <p>Fill out the short performer form so Morgan knows who you are and what setup you need.</p>
                     </div>
                     <div class="step-card">
                         <div class="step-number">3</div>
@@ -279,15 +312,24 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
                 <div class="support-box">
                     <p><strong>Good fit for this setup:</strong> acoustic music, small amplified sets, spoken word, comedy, readings, and other simple live performances that do not require house gear.</p>
                 </div>
+
+                <h3 style="margin-top: 26px;">Open Mic Rules</h3>
+                <ul class="rules-list">
+                    <li><strong>Family friendly only.</strong> No hate speech, sexually explicit material, or content that would make the market uncomfortable for kids and families.</li>
+                    <li><strong>Weather permitting.</strong> Open mic is for outdoor market days only. If the market moves indoors for bad weather, open mic is canceled for that day.</li>
+                    <li><strong>30-minute slots.</strong> Slots start at 10:00am and run every 30 minutes until 1:00pm.</li>
+                    <li><strong>Bring your own gear.</strong> Electricity may be available, but performers need to bring their own instruments, mics, stands, cords, and other equipment.</li>
+                    <li><strong>Keep it community friendly.</strong> The host may stop or decline a performance that does not fit the tone of the market.</li>
+                </ul>
             </div>
 
             <div class="openmic-card signup-box">
                 <h2>Ready to sign up?</h2>
-                <p>Use the link below to reserve your open mic spot.</p>
+                <p>Use the link below to reserve your open mic spot, then send your performer details with the form below.</p>
                 <p style="margin: 22px 0 10px;">
                     <a href="https://www.signupgenius.com/go/10C044BACA922AAF9C61-64339514-open" target="_blank" rel="noopener" class="btn btn-primary">Open Mic SignUpGenius →</a>
                 </p>
-                <div class="openmic-note">Electricity is available. Equipment is not provided.</div>
+                <div class="openmic-note">Weather permitting. Outdoor market days only. Electricity is available. Equipment is not provided.</div>
 
                 <ul class="detail-list" style="text-align: left;">
                     <li>
@@ -299,6 +341,10 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
                         Morgan at the Ryno Community Lot
                     </li>
                     <li>
+                        <span class="detail-label">Schedule</span>
+                        Saturdays during the community market, 10:00am to 1:00pm, in 30-minute slots
+                    </li>
+                    <li>
                         <span class="detail-label">Bring Your Own Gear</span>
                         Instruments, mics, stands, cords, and anything else your set needs
                     </li>
@@ -308,6 +354,107 @@ description: Sign up for open mic nights at the Ryno Community Lot in Blue Earth
                     </li>
                 </ul>
             </div>
+        </div>
+
+        <div class="card openmic-form-card">
+            <div class="section-label">Performer Form</div>
+            <h2>Send Morgan Your Performer Details</h2>
+            <p class="openmic-form-intro">After you claim a slot on SignUpGenius, fill this out so Morgan knows who to expect, what kind of act you are bringing, and whether you need electricity.</p>
+            <hr class="divider">
+            <form action="https://script.google.com/macros/s/AKfycbxXq-ASfHPGtE0PARnjhXWpPxBqBr9wJDIdk2r-qXpi6pMhL_iSbopPmQfczxhzUuko/exec" method="POST">
+                <input type="hidden" name="_name" value="Ryno Community Lot Open Mic Signups 2026">
+                <input type="hidden" name="_notify" value="info@blueearthcommunitymarket.com,rynorepair@gmail.com">
+                <input type="hidden" name="_meta" value="true">
+
+                <div class="form-grid">
+                    <div class="form-field">
+                        <label for="performer_name">Performer Name *</label>
+                        <input type="text" id="performer_name" name="performer_name" required>
+                    </div>
+                    <div class="form-field">
+                        <label for="contact_name">Contact Name *</label>
+                        <input type="text" id="contact_name" name="contact_name" required>
+                    </div>
+                </div>
+
+                <div class="form-grid">
+                    <div class="form-field">
+                        <label for="email">Email Address *</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-field">
+                        <label for="phone">Phone Number</label>
+                        <input type="tel" id="phone" name="phone">
+                    </div>
+                </div>
+
+                <div class="form-grid">
+                    <div class="form-field">
+                        <label for="performance_type">Type of Performance *</label>
+                        <select id="performance_type" name="performance_type" required>
+                            <option value="">Select one</option>
+                            <option value="music">Music</option>
+                            <option value="spoken_word">Spoken Word / Poetry</option>
+                            <option value="comedy">Comedy</option>
+                            <option value="storytelling">Storytelling / Reading</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+                    <div class="form-field">
+                        <label for="preferred_slot">Which slot did you claim on SignUpGenius? *</label>
+                        <input type="text" id="preferred_slot" name="preferred_slot" placeholder="Example: June 20 at 11:30am" required>
+                    </div>
+                </div>
+
+                <div class="form-field">
+                    <label for="performance_description">What are you planning to perform? *</label>
+                    <textarea id="performance_description" name="performance_description" placeholder="Short set description, style, or song list..." required></textarea>
+                </div>
+
+                <div class="form-grid">
+                    <div class="form-field">
+                        <label for="power_needs">Do you need electricity?</label>
+                        <select id="power_needs" name="power_needs">
+                            <option value="no">No</option>
+                            <option value="yes">Yes</option>
+                            <option value="not_sure">Not sure yet</option>
+                        </select>
+                    </div>
+                    <div class="form-field">
+                        <label for="social_media">Website or Social Link</label>
+                        <input type="url" id="social_media" name="social_media" placeholder="https://...">
+                    </div>
+                </div>
+
+                <div class="form-field">
+                    <label for="equipment_details">What are you bringing?</label>
+                    <textarea id="equipment_details" name="equipment_details" placeholder="Instrument, mic, amp, stand, cables, stool, etc."></textarea>
+                </div>
+
+                <div class="form-field">
+                    <label for="notes">Anything else Morgan should know?</label>
+                    <textarea id="notes" name="notes" placeholder="Questions, special setup notes, or anything helpful..."></textarea>
+                </div>
+
+                <div class="form-field" style="margin-bottom: 16px;">
+                    <label style="display: flex; align-items: flex-start; gap: 10px; cursor: pointer;">
+                        <input type="checkbox" name="weather_acknowledged" value="yes" required style="width: auto; margin-top: 3px; flex-shrink: 0;">
+                        <span style="font-size: 0.92rem; color: #3b2a1a; font-weight: 700;">I understand open mic is weather permitting and will not run on bad weather days when the market moves indoors.</span>
+                    </label>
+                </div>
+
+                <div class="form-field">
+                    <label style="display: flex; align-items: flex-start; gap: 10px; cursor: pointer;">
+                        <input type="checkbox" name="rules_agreed" value="yes" required style="width: auto; margin-top: 3px; flex-shrink: 0;">
+                        <span style="font-size: 0.92rem; color: #3b2a1a; font-weight: 700;">I agree to keep my performance family friendly and understand the host may stop or decline content that is offensive or not a good fit for the community market.</span>
+                    </label>
+                </div>
+
+                <div class="form-submit">
+                    <button type="submit" class="btn btn-primary">Send Performer Details</button>
+                </div>
+                <p class="form-note" style="margin-top: 14px;">Questions? Contact Morgan at <a href="mailto:rynorepair@gmail.com">rynorepair@gmail.com</a>.</p>
+            </form>
         </div>
     </div>
 </section>
