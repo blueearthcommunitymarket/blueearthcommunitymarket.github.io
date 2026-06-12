@@ -1,5 +1,3 @@
-Total output lines: 729
-
 ---
 layout: default
 title: Vendor Spotlight
@@ -641,6 +639,22 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             </div>
         </div>
 
+        <!-- T's Sweet Treats and More -->
+        <div class="card">
+            <div class="section-label">Bakery &amp; Treats</div>
+            <h2>T's Sweet Treats and More</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-occasional">Occasional</span>
+            </div>
+            <p>Tina Gilbert brings homemade sweet treats to the market, adding another fresh cottage food booth to the Blue Earth lineup. Watch for baked goods and dessert favorites as this new vendor gets established.</p>
+            <div class="pills" style="margin-top: 12px;">
+                <span class="tag">Baked Goods</span>
+                <span class="tag">Sweet Treats</span>
+                <span class="tag">Cottage Food</span>
+                <span class="tag">New Vendor</span>
+            </div>
+        </div>
+
         <!-- True North Floral -->
         <div class="card">
             <div class="section-label">Flowers &amp; Vegetables</div>
@@ -683,6 +697,23 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             </div>
         </div>
 
+        <!-- Norske Hus Sweets by Joyce -->
+        <div class="card">
+            <div class="section-label">Bakery &amp; Treats</div>
+            <h2>Norske Hus Sweets by Joyce</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-most">Most Weeks</span>
+            </div>
+            <p>Joyce Woodwick is bringing Norske Hus Sweets by Joyce to the market with Scotcharoos, fresh fruit pies, cookies, snack mixes, and other homemade baked goods. Her booth builds on years of local baking experience and a warm Scandinavian-inspired food story.</p>
+            <div class="pills" style="margin-top: 12px;">
+                <span class="tag">Scotcharoos</span>
+                <span class="tag">Fresh Fruit Pies</span>
+                <span class="tag">Cookies</span>
+                <span class="tag">Snack Mixes</span>
+                <span class="tag">Homemade</span>
+            </div>
+        </div>
+
         <!-- Vitas Tamales -->
         <div class="card">
             <div class="section-label">Food &amp; Specialties</div>
@@ -700,6 +731,25 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             </div>
             <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
                 <a href="https://www.facebook.com/profile.php?id=61579135743764" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
+            </div>
+        </div>
+
+        <!-- GodScent Candles -->
+        <div class="card">
+            <div class="section-label">Candles &amp; Home Fragrance</div>
+            <h2>GodScent Candles</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-occasional">Occasional</span>
+            </div>
+            <p>GodScent Candles brings handmade soy wax candles and melts made to be clean-burning, non-toxic, and pet friendly. Emma Lawrence's booth adds a polished home-fragrance option for shoppers who like gifts and cozy scents.</p>
+            <div class="pills" style="margin-top: 12px;">
+                <span class="tag">Soy Candles</span>
+                <span class="tag">Wax Melts</span>
+                <span class="tag">Pet Friendly</span>
+                <span class="tag">Handmade</span>
+            </div>
+            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
+                <a href="https://www.instagram.com/godscent.co/" target="_blank" rel="noopener" class="btn btn-outline" style="font-size: 0.82rem; padding: 8px 16px;">Instagram</a>
             </div>
         </div>
 
