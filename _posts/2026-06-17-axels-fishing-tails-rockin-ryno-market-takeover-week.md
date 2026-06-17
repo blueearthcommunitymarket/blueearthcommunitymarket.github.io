@@ -13,6 +13,10 @@ If you love fishing, the outdoors, or supporting creative local kids doing big t
 
 Axel's Fishing Tails stands out for handmade single-hook lures and custom options that let shoppers pick details like bead colors, lure size, and blade size. It is exactly the kind of creative local business that makes the market fun to explore.
 
+<div style="margin: 2rem 0;">
+  <img src="/assets/images/news/2026-06-17-axels-fishing-tails-takeover-week/axels-fishing-tails.png" alt="Axel's Fishing Tails featured for Rockin' Ryno Market Takeover Week" style="width: 100%; height: auto; display: block; border-radius: 12px;">
+</div>
+
 We're turning up the volume all week as we count down to the next live music event on the lot Friday night, then keeping the energy rolling into the Blue Earth Community Market on Saturday.
 
 - **Friday, June 19:** Ryno's Rockin' Roll-In with Blue Dirt Road
