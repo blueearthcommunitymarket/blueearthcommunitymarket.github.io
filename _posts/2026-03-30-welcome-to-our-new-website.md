@@ -16,7 +16,7 @@ Get to know the amazing people behind the booths! From Blue Earth Cooperative Ba
 Hungry? We've got you covered! Check out our "Meet the Trucks" section to see which delicious food trucks will be at the Ryno Community Lot throughout the week. Whether you're craving Bummy's BBQ, fresh tacos from Kris Tacos, or something sweet from The Lemon, you can check the schedule and plan your perfect meal any day of the week.
 
 ### 🎸 **Live Music at Ryno's Rockin' Roll-In**
-Friday nights just got even more fun! We're featuring live music events at the Ryno Community Lot with local favorite Morgan Dickman kicking us off on Friday, May 29th, followed by Blue Dirt Road on Friday, June 19th. And here's the coolest part: thanks to our incredible community sponsors, we raised $3,000 to build a permanent stage! The Blue Earth Area Construction Tech Students are building it for us. How amazing is that?
+Friday nights just got even more fun! We're featuring live music events at the Ryno Community Lot with local favorite Morgan Dickman kicking us off on Friday, May 29th, followed by Blue Dirt Road on Saturday, July 18th. And here's the coolest part: thanks to our incredible community sponsors, we raised $3,000 to build a permanent stage! The Blue Earth Area Construction Tech Students are building it for us. How amazing is that?
 
 ### 📅 **Never Miss Your Favorites**
 We know you have favorite vendors and food trucks, so we've made it super easy to see who's coming to the market on Saturdays and which food trucks are scheduled at the Ryno Community Lot throughout the week. No more guessing or showing up disappointed because your go-to lunch spot isn't there! And here's a pro tip: come early because our vendors and food trucks do sell out of the good stuff!
