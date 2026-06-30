@@ -25,7 +25,7 @@ Our first Rockin' Roll-In of the season is:
 - **Live Music:** Morgan Dickman
 - **Food Trucks:** The Lemon, Bummy's BBQ, and Kris Tacos
 
-We have another one lined up for **Saturday, July 18** with **Blue Dirt Road**. Food trucks are not scheduled for that event at this time.
+We have another one lined up for **Saturday, July 18** with **Blue Dirt Road** and **Cheezers** on site.
 
 These nights are meant to feel easy and welcoming. Bring a lawn chair. Pull up with your side-by-side, golf cart, or four-wheeler if that is your style. Or just drive in and hang out. The whole point is to create a fun community night on the Ryno lot with music, food, and room to relax.
 

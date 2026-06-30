@@ -49,7 +49,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=61588735352367" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- Beautiful Brushstrokes -->
         <div class="card">
             <div class="section-label">Face Painting &amp; Kids Fun</div>
@@ -68,7 +67,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=61583393258011" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- Blue Earth Cooperative Bakery -->
         <div class="card">
             <div class="section-label">Bakery &amp; Treats</div>
@@ -90,7 +88,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://blueearthcoop.com/bakery/" target="_blank" rel="noopener" class="btn btn-primary" style="font-size: 0.82rem; padding: 8px 16px;">Website</a>
             </div>
         </div>
-
         <!-- Bread and Book Bakery -->
         <div class="card">
             <div class="section-label">Bakery &amp; Treats</div>
@@ -111,7 +108,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/Breadandbook" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- Broken Nickel Plants -->
         <div class="card">
             <div class="section-label">Plants &amp; Garden</div>
@@ -128,7 +124,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Flowers</span>
             </div>
         </div>
-
         <!-- Canna Culture -->
         <div class="card">
             <div class="section-label">Mushrooms &amp; Specialty Foods</div>
@@ -148,7 +143,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=100094912900602" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- Cookies Bars & Jars -->
         <div class="card">
             <div class="section-label">Sourdough Bakery</div>
@@ -167,7 +161,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=61550759296451" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- Creative Cakes By Val -->
         <div class="card">
             <div class="section-label">Bakery &amp; Treats</div>
@@ -184,7 +177,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Local Baker</span>
             </div>
         </div>
-
         <!-- Dana's Mexican Food /Snacks -->
         <div class="card">
             <div class="section-label">Prepared Food</div>
@@ -201,7 +193,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Prepared Food</span>
             </div>
         </div>
-
         <!-- DJ Farms -->
         <div class="card">
             <div class="section-label">Canned Goods &amp; Handmade Items</div>
@@ -221,7 +212,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/61588869615632/" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- Ghostly Paracord -->
         <div class="card">
             <div class="section-label">Handmade Goods</div>
@@ -241,7 +231,24 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/share/17VTphirid/?mibextid=wwXIfr" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
+        <!-- GodScent Candles -->
+        <div class="card">
+            <div class="section-label">Candles &amp; Home Fragrance</div>
+            <h2>GodScent Candles</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-next">Next market: July 25</span>
+            </div>
+            <p>GodScent Candles brings handmade soy wax candles and melts made to be clean-burning, non-toxic, and pet friendly. Emma Lawrence's booth adds a polished home-fragrance option for shoppers who like gifts and cozy scents.</p>
+            <div class="pills" style="margin-top: 12px;">
+                <span class="tag">Soy Candles</span>
+                <span class="tag">Wax Melts</span>
+                <span class="tag">Pet Friendly</span>
+                <span class="tag">Handmade</span>
+            </div>
+            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
+                <a href="https://www.instagram.com/godscent.co/" target="_blank" rel="noopener" class="btn btn-outline" style="font-size: 0.82rem; padding: 8px 16px;">Instagram</a>
+            </div>
+        </div>
         <!-- Goemann Produce -->
         <div class="card">
             <div class="section-label">Farm Fresh Produce</div>
@@ -262,7 +269,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=61573977967733" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- Granada Gardens -->
         <div class="card">
             <div class="section-label">Farm Fresh Produce</div>
@@ -282,7 +288,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/share/18Pbt96KRY/?mibextid=wwXIfr" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- Hagedorn Farms Sweet Corn -->
         <div class="card">
             <div class="section-label">Farm Fresh Produce</div>
@@ -302,7 +307,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/hagedornfarms" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- Hannah's Happy Hens -->
         <div class="card">
             <div class="section-label">Farm Fresh Produce</div>
@@ -318,7 +322,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Farm Booth</span>
             </div>
         </div>
-
         <!-- Hygge Coffee -->
         <div class="card">
             <div class="section-label">Coffee &amp; Roastery</div>
@@ -338,7 +341,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/share/1BCUjszMLL/" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- Impresiones Bonita -->
         <div class="card">
             <div class="section-label">Bakery &amp; Specialty Cakes</div>
@@ -355,7 +357,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Homemade</span>
             </div>
         </div>
-
         <!-- Jenny Adams' Bookish Crafts -->
         <div class="card">
             <div class="section-label">Books &amp; Handmade Crafts</div>
@@ -370,7 +371,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span…20 tokens truncated…</span>
             </div>
         </div>
-
         <!-- Little Reds Seasoning -->
         <div class="card">
             <div class="section-label">Seasonings &amp; Spices</div>
@@ -388,13 +388,12 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=61561246294965" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- Little Ryno Stand -->
         <div class="card">
             <div class="section-label">Market Hub &amp; Kids</div>
             <h2>Little Ryno Stand</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
+                <span class="frequency-badge freq-next">Next market: July 18</span>
             </div>
             <p>Coffee, water, popcorn, peanuts, BECM merch, and DIY crafts from the Myers girls. The pink shed is Grand Central Station for all market questions. First aid kit available here too.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -408,7 +407,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=61578364805858" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- New Chances Humane Society -->
         <div class="card">
             <div class="section-label">Community Cause &amp; Pet Goods</div>
@@ -429,7 +427,22 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://nchs-mn.org/" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Website</a>
             </div>
         </div>
-
+        <!-- Norske Hus Sweets by Joyce -->
+        <div class="card">
+            <div class="section-label">Bakery &amp; Treats</div>
+            <h2>Norske Hus Sweets by Joyce</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
+            </div>
+            <p>Joyce Woodwick is bringing Norske Hus Sweets by Joyce to the market with Scotcharoos, fresh fruit pies, cookies, snack mixes, and other homemade baked goods. Her booth builds on years of local baking experience and a warm Scandinavian-inspired food story.</p>
+            <div class="pills" style="margin-top: 12px;">
+                <span class="tag">Scotcharoos</span>
+                <span class="tag">Fresh Fruit Pies</span>
+                <span class="tag">Cookies</span>
+                <span class="tag">Snack Mixes</span>
+                <span class="tag">Homemade</span>
+            </div>
+        </div>
         <!-- Ope! Oddities -->
         <div class="card">
             <div class="section-label">Curiosities &amp; Collectibles</div>
@@ -449,7 +462,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=61563491210803" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- Passion Design Home -->
         <div class="card">
             <div class="section-label">Handmade Home Decor</div>
@@ -466,7 +478,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Upcycled</span>
             </div>
         </div>
-
         <!-- Plates & Treats by Kayla -->
         <div class="card">
             <div class="section-label">Bakery &amp; Treats</div>
@@ -485,7 +496,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/groups/938616215294957/" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook Group</a>
             </div>
         </div>
-
         <!-- River Shark Books -->
         <div class="card">
             <div class="section-label">Books &amp; Literature</div>
@@ -504,7 +514,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://daniellehayterjohnson.com/" target="_blank" rel="noopener" class="btn btn-primary" style="font-size: 0.82rem; padding: 8px 16px;">Website</a>
             </div>
         </div>
-
         <!-- Sassy Sprouts Homestead -->
         <div class="card">
             <div class="section-label">Homestead Goods</div>
@@ -521,7 +530,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Plush Stuffies</span>
             </div>
         </div>
-
         <!-- Steele Family Farm -->
         <div class="card">
             <div class="section-label">Farm Fresh Produce</div>
@@ -537,26 +545,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Seasonal</span>
             </div>
         </div>
-
-        <!-- Sugar high -->
-        <div class="card">
-            <div class="section-label">Bakery &amp; Treats</div>
-            <h2>Sugar high</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Sugar high is a cottage food bakery from Parris Quinn bringing fresh baked goods to the market. With weekly signups already on the calendar, this is a new booth to keep an eye on if you like finding small-batch sweets and bakery favorites.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Baked Goods</span>
-                <span class="tag">Cottage Food</span>
-                <span class="tag">Small Batch</span>
-                <span class="tag">Weekly Vendor</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.instagram.com/sugarhigh_baked.goods/" target="_blank" rel="noopener" class="btn btn-outline" style="font-size: 0.82rem; padding: 8px 16px;">Instagram</a>
-            </div>
-        </div>
-
         <!-- Sweet Escape by Danibel -->
         <div class="card">
             <div class="section-label">Sweets &amp; Desserts</div>
@@ -575,7 +563,21 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=61576650612814" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
+        <!-- T's Sweet Treats and More -->
+        <div class="card">
+            <div class="section-label">Bakery &amp; Treats</div>
+            <h2>T's Sweet Treats and More</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
+            </div>
+            <p>Tina Gilbert brings homemade sweet treats to the market, adding another fresh cottage food booth to the Blue Earth lineup. Watch for baked goods and dessert favorites as this new vendor gets established.</p>
+            <div class="pills" style="margin-top: 12px;">
+                <span class="tag">Baked Goods</span>
+                <span class="tag">Sweet Treats</span>
+                <span class="tag">Cottage Food</span>
+                <span class="tag">New Vendor</span>
+            </div>
+        </div>
         <!-- The Mustard Tree -->
         <div class="card">
             <div class="section-label">Food &amp; Specialties</div>
@@ -595,7 +597,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=61558147275384" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
         <!-- The One N Only Sweet Spot -->
         <div class="card">
             <div class="section-label">Bakery &amp; Treats</div>
@@ -616,7 +617,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://theonenonlysweetspot.myshopify.com/" target="_blank" rel="noopener" class="btn btn-primary" style="font-size: 0.82rem; padding: 8px 16px;">Website</a>
             </div>
         </div>
-
         <!-- Treats & Treasures By Laura & Milo -->
         <div class="card">
             <div class="section-label">Bakery &amp; Pet Treats</div>
@@ -636,23 +636,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/TreatsTreasuresLM/" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
-        <!-- T's Sweet Treats and More -->
-        <div class="card">
-            <div class="section-label">Bakery &amp; Treats</div>
-            <h2>T's Sweet Treats and More</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Tina Gilbert brings homemade sweet treats to the market, adding another fresh cottage food booth to the Blue Earth lineup. Watch for baked goods and dessert favorites as this new vendor gets established.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Baked Goods</span>
-                <span class="tag">Sweet Treats</span>
-                <span class="tag">Cottage Food</span>
-                <span class="tag">New Vendor</span>
-            </div>
-        </div>
-
         <!-- True North Floral -->
         <div class="card">
             <div class="section-label">Flowers &amp; Vegetables</div>
@@ -674,7 +657,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.truenorthfloral.com/" target="_blank" rel="noopener" class="btn btn-primary" style="font-size: 0.82rem; padding: 8px 16px;">Website</a>
             </div>
         </div>
-
         <!-- Unique Items by April -->
         <div class="card">
             <div class="section-label">Handmade Goods</div>
@@ -694,24 +676,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=100083288859814" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
-        <!-- Norske Hus Sweets by Joyce -->
-        <div class="card">
-            <div class="section-label">Bakery &amp; Treats</div>
-            <h2>Norske Hus Sweets by Joyce</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Joyce Woodwick is bringing Norske Hus Sweets by Joyce to the market with Scotcharoos, fresh fruit pies, cookies, snack mixes, and other homemade baked goods. Her booth builds on years of local baking experience and a warm Scandinavian-inspired food story.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Scotcharoos</span>
-                <span class="tag">Fresh Fruit Pies</span>
-                <span class="tag">Cookies</span>
-                <span class="tag">Snack Mixes</span>
-                <span class="tag">Homemade</span>
-            </div>
-        </div>
-
         <!-- Vitas Tamales -->
         <div class="card">
             <div class="section-label">Food &amp; Specialties</div>
@@ -731,26 +695,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=61579135743764" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-
-        <!-- GodScent Candles -->
-        <div class="card">
-            <div class="section-label">Candles &amp; Home Fragrance</div>
-            <h2>GodScent Candles</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
-            </div>
-            <p>GodScent Candles brings handmade soy wax candles and melts made to be clean-burning, non-toxic, and pet friendly. Emma Lawrence's booth adds a polished home-fragrance option for shoppers who like gifts and cozy scents.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Soy Candles</span>
-                <span class="tag">Wax Melts</span>
-                <span class="tag">Pet Friendly</span>
-                <span class="tag">Handmade</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.instagram.com/godscent.co/" target="_blank" rel="noopener" class="btn btn-outline" style="font-size: 0.82rem; padding: 8px 16px;">Instagram</a>
-            </div>
-        </div>
-
         <!-- Vons Household Goods -->
         <div class="card">
             <div class="section-label">Household Goods</div>
@@ -767,8 +711,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Bargain Finds</span>
             </div>
         </div>
-    </div>
-
     <div class="card" style="text-align: center; margin-top: 10px;">
         <p>Are you a vendor? <a href="/vendors/" style="color: var(--green-dark); font-weight: 700;">Apply to join the market</a> and get featured here!</p>
 
