@@ -52,17 +52,17 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
 
         <!-- Beautiful Brushstrokes -->
         <div class="card">
-            <div class="section-label">Art &amp; Handmade Goods</div>
+            <div class="section-label">Face Painting &amp; Kids Fun</div>
             <h2>Beautiful Brushstrokes</h2>
             <div class="market-frequency">
                 <span class="frequency-badge freq-none">Not currently scheduled</span>
             </div>
-            <p>Creative handmade goods from Charlotte Bach, bringing artful touches and handcrafted pieces to the market.</p>
+            <p>Beautiful Brushstrokes is a face painting booth run by Charlotte's daughter, giving kids a fun market day stop with colorful painted designs.</p>
             <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Art</span>
-                <span class="tag">Handmade</span>
-                <span class="tag">Creative</span>
-                <span class="tag">Local</span>
+                <span class="tag">Face Painting</span>
+                <span class="tag">Kids</span>
+                <span class="tag">Young Artist</span>
+                <span class="tag">Family Friendly</span>
             </div>
             <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
                 <a href="https://www.facebook.com/profile.php?id=61583393258011" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
@@ -268,13 +268,13 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Farm Fresh Produce</div>
             <h2>Granada Gardens</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
+                <span class="frequency-badge freq-next">Open daily through season end</span>
             </div>
-            <p>Self-serve honor system vegetable stand offering fresh seasonal produce. Very popular with the community for its convenient honor-based system and quality farm-fresh vegetables.</p>
+            <p>Granada Gardens is a self-serve honor system produce stand that stays set up at the market every day through the end of the season, offering fresh seasonal vegetables right in Blue Earth.</p>
             <div class="pills" style="margin-top: 12px;">
                 <span class="tag">Vegetables</span>
+                <span class="tag">Open Daily</span>
                 <span class="tag">Honor System</span>
-                <span class="tag">Seasonal</span>
                 <span class="tag">Self-Serve</span>
                 <span class="tag">Farm Fresh</span>
             </div>
