@@ -72,7 +72,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Bakery &amp; Treats</div>
             <h2>Blue Earth Cooperative Bakery</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 18</span>
+                <span class="frequency-badge freq-next">Next market: July 11, Giant Days on Main St</span>
             </div>
             <p>Small batch artisan sourdough breads, focaccia, scones, cookies, cakes, and seasonal kringla, all handmade in Blue Earth. Sales support preservation of our historic cooperative building.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -166,7 +166,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Bakery &amp; Treats</div>
             <h2>Creative Cakes By Val</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
+                <span class="frequency-badge freq-next">Next market: July 11, Giant Days on Main St</span>
             </div>
             <p>Creative Cakes By Val brings baked goods and chocolate dipped treats from Valeria Vargas. This booth joined the 2026 market season with a sweet lineup and has already built repeat customers through earlier market dates.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -368,7 +368,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="pills" style="margin-top: 12px;">
                 <span class="tag">Bookish Crafts</span>
                 <span class="tag">Handmade</span>
-                <span…20 tokens truncated…</span>
+                <span class="tag">Reader Gifts</span>
             </div>
         </div>
         <!-- Little Reds Seasoning -->
