@@ -67,6 +67,22 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=61583393258011" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
+        <!-- Blue Earth Legion Riders -->
+        <div class="card">
+            <div class="section-label">Community Fundraiser &amp; Awareness</div>
+            <h2>Blue Earth Legion Riders</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
+            </div>
+            <p>Vanessa Graham is bringing Blue Earth Legion Riders to the market to raise awareness for an upcoming Autism Awareness Ride. Their booth focuses on community outreach and fundraising to support autism toolkits for local emergency responders.</p>
+            <div class="pills" style="margin-top: 12px;">
+                <span class="tag">Autism Awareness</span>
+                <span class="tag">Community Fundraiser</span>
+                <span class="tag">Benefit Ride</span>
+                <span class="tag">Local Outreach</span>
+                <span class="tag">Emergency Responder Support</span>
+            </div>
+        </div>
         <!-- Blue Earth Cooperative Bakery -->
         <div class="card">
             <div class="section-label">Bakery &amp; Treats</div>
@@ -427,6 +443,27 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://nchs-mn.org/" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Website</a>
             </div>
         </div>
+        <!-- Nomada Soap Co. -->
+        <div class="card">
+            <div class="section-label">Bath &amp; Body</div>
+            <h2>Nomada Soap Co.</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-next">Next market: July 11</span>
+            </div>
+            <p>Jozy Lopez of Nomada Soap Co. brings handmade bath and body goods including goat milk soap, body oils, body butters, bath soaks, balms, and more. Jozy highlighted the scent Santal Suede and shared a small-batch self-care line built around handcrafted products.</p>
+            <div class="pills" style="margin-top: 12px;">
+                <span class="tag">Goat Milk Soap</span>
+                <span class="tag">Body Oils</span>
+                <span class="tag">Body Butters</span>
+                <span class="tag">Bath Soaks</span>
+                <span class="tag">Balms</span>
+                <span class="tag">Santal Suede</span>
+            </div>
+            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
+                <a href="https://www.facebook.com/share/19AGi3ZNwE/" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
+                <a href="https://houseofnomada.bigcartel.com/" target="_blank" rel="noopener" class="btn btn-primary" style="font-size: 0.82rem; padding: 8px 16px;">Website</a>
+            </div>
+        </div>
         <!-- Norske Hus Sweets by Joyce -->
         <div class="card">
             <div class="section-label">Bakery &amp; Treats</div>
@@ -528,6 +565,21 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Burp Cloths</span>
                 <span class="tag">Towels</span>
                 <span class="tag">Plush Stuffies</span>
+            </div>
+        </div>
+        <!-- Shoen Holdfast Farm -->
+        <div class="card">
+            <div class="section-label">Farm Fresh Produce</div>
+            <h2>Shoen Holdfast Farm</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-next">Next market: July 11</span>
+            </div>
+            <p>Shoen Holdfast Farm brings local farm goods from Shawn Shoen. The booth adds another small-farm voice to the market lineup and gives shoppers one more stop for seasonal items from a local grower.</p>
+            <div class="pills" style="margin-top: 12px;">
+                <span class="tag">Farm Goods</span>
+                <span class="tag">Local Farm</span>
+                <span class="tag">Seasonal</span>
+                <span class="tag">Grower</span>
             </div>
         </div>
         <!-- Steele Family Farm -->
