@@ -36,7 +36,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Fishing Gear &amp; Handmade Goods</div>
             <h2>Axel's Fishing Tails</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
+                <span class="frequency-badge freq-next">Next market: July 18</span>
             </div>
             <p>Handmade single-hook fishing lures by 11-year-old Axel Boman of Frost, with custom options for bead colors, lure size, and blade size.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -674,7 +674,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Bakery &amp; Pet Treats</div>
             <h2>Treats &amp; Treasures By Laura &amp; Milo</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
+                <span class="frequency-badge freq-next">Next market: July 25</span>
             </div>
             <p>Cottage food baked goods, dog treats and toys, plus unique arts and crafts items. A delightful mix offering something special for both humans and their furry friends.</p>
             <div class="pills" style="margin-top: 12px;">
