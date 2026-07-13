@@ -534,24 +534,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Upcycled</span>
             </div>
         </div>
-        <!-- Plates & Treats by Kayla -->
-        <div class="card">
-            <div class="section-label">Bakery &amp; Treats</div>
-            <h2>Plates &amp; Treats by Kayla</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Homemade plates and sweet treats crafted with care. A delicious addition to the market with something tasty for everyone.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Homemade</span>
-                <span class="tag">Plates</span>
-                <span class="tag">Treats</span>
-                <span class="tag">Local</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/groups/938616215294957/" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook Group</a>
-            </div>
-        </div>
         <!-- River Shark Books -->
         <div class="card">
             <div class="section-label">Books &amp; Literature</div>
@@ -632,21 +614,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             </div>
             <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
                 <a href="https://www.facebook.com/profile.php?id=61576650612814" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-            </div>
-        </div>
-        <!-- T's Sweet Treats and More -->
-        <div class="card">
-            <div class="section-label">Bakery &amp; Treats</div>
-            <h2>T's Sweet Treats and More</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Tina Gilbert brings homemade sweet treats to the market, adding another fresh cottage food booth to the Blue Earth lineup. Watch for baked goods and dessert favorites as this new vendor gets established.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Baked Goods</span>
-                <span class="tag">Sweet Treats</span>
-                <span class="tag">Cottage Food</span>
-                <span class="tag">New Vendor</span>
             </div>
         </div>
         <!-- The Mustard Tree -->
@@ -764,22 +731,6 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             </div>
             <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
                 <a href="https://www.facebook.com/profile.php?id=61579135743764" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-            </div>
-        </div>
-        <!-- Vons Household Goods -->
-        <div class="card">
-            <div class="section-label">Household Goods</div>
-            <h2>Vons Household Goods</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Vons Household Goods brings an eclectic mix of practical finds, from tools and mobile phone accessories to plumbing parts, toys, incense, and other everyday bargain items.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Tools</span>
-                <span class="tag">Phone Accessories</span>
-                <span class="tag">Household Goods</span>
-                <span class="tag">Toys</span>
-                <span class="tag">Bargain Finds</span>
             </div>
         </div>
     <div class="card" style="text-align: center; margin-top: 10px;">
