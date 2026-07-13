@@ -159,6 +159,25 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=100094912900602" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
+        <!-- Cody's Cookie Confections -->
+        <div class="card">
+            <div class="section-label">Bakery &amp; Treats</div>
+            <h2>Cody's Cookie Confections</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-next">Next market: July 18</span>
+            </div>
+            <p>Cody's Cookie Confections brings sugar cookies and collectible stickers to the market, with a fun mix of sweet treats and creative extras.</p>
+            <div class="pills" style="margin-top: 12px;">
+                <span class="tag">Sugar Cookies</span>
+                <span class="tag">Cookies</span>
+                <span class="tag">Collectible Stickers</span>
+                <span class="tag">Sweet Treats</span>
+                <span class="tag">Creative</span>
+            </div>
+            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
+                <a href="https://www.facebook.com/codyscookieconfections" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
+            </div>
+        </div>
         <!-- Cookies Bars & Jars -->
         <div class="card">
             <div class="section-label">Sourdough Bakery</div>
