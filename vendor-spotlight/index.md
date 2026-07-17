@@ -145,7 +145,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Mushrooms &amp; Specialty Foods</div>
             <h2>Canna Culture</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 8</span>
+                <span class="frequency-badge freq-next">Next market: August 1</span>
             </div>
             <p>Canna Culture is bringing mushroom kits, infused mushroom honeys, dried mushrooms, drinks, and other specialty mushroom products as they roll out a new expansion.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -183,7 +183,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Sourdough Bakery</div>
             <h2>Cookies Bars &amp; Jars</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 18</span>
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
             </div>
             <p>Kathy Anderson brings naturally leavened sourdough breads to the market, with a focus on rustic homemade loaves baked with care in Blue Earth.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -217,7 +217,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Prepared Food</div>
             <h2>Dana's Mexican Food /Snacks</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 18</span>
+                <span class="frequency-badge freq-next">Next market: July 25</span>
             </div>
             <p>Dana's Mexican Food /Snacks brings tortas, hot dogs, fruit cups, Mexican pinwheels, sodas, water, and other ready-to-eat favorites to the market.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -271,7 +271,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Candles &amp; Home Fragrance</div>
             <h2>GodScent Candles</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 18</span>
+                <span class="frequency-badge freq-next">Next market: July 25</span>
             </div>
             <p>GodScent Candles brings handmade soy wax candles and melts made to be clean-burning, non-toxic, and pet friendly. Emma Lawrence's booth adds a polished home-fragrance option for shoppers who like gifts and cozy scents.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -716,7 +716,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Handmade Goods</div>
             <h2>Unique Items by April</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 1</span>
+                <span class="frequency-badge freq-next">Next market: July 25</span>
             </div>
             <p>Tumblers, 3D items, laser engraved items, and freeze dried candy. A variety of unique handcrafted goods to discover at the market.</p>
             <div class="pills" style="margin-top: 12px;">
