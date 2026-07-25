@@ -217,7 +217,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Prepared Food</div>
             <h2>Dana's Mexican Food /Snacks</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
+                <span class="frequency-badge freq-next">Next market: August 1</span>
             </div>
             <p>Dana's Mexican Food /Snacks brings tortas, hot dogs, fruit cups, Mexican pinwheels, sodas, water, and other ready-to-eat favorites to the market.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -604,7 +604,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Farm Fresh Produce</div>
             <h2>Steele Family Farm</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 1</span>
+                <span class="frequency-badge freq-next">Next market: September 12</span>
             </div>
             <p>Farm fresh eggs and seasonal produce from the Steele family. Looking forward to adding succulents later in the season.</p>
             <div class="pills" style="margin-top: 12px;">
