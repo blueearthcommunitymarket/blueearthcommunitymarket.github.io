@@ -129,7 +129,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Plants &amp; Garden</div>
             <h2>Broken Nickel Plants</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 1</span>
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
             </div>
             <p>Quality seasonal plants to brighten your home or garden. Selection varies by season with spring starts, summer flowers, and fall decorative plants available throughout the growing season.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -164,7 +164,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Bakery &amp; Treats</div>
             <h2>Cody's Cookie Confections</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-next">Next market: August 1</span>
             </div>
             <p>Cody's Cookie Confections brings sugar cookies and collectible stickers to the market, with a fun mix of sweet treats and creative extras.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -217,7 +217,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Prepared Food</div>
             <h2>Dana's Mexican Food /Snacks</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 1</span>
+                <span class="frequency-badge freq-next">Next market: August 8</span>
             </div>
             <p>Dana's Mexican Food /Snacks brings tortas, hot dogs, fruit cups, Mexican pinwheels, sodas, water, and other ready-to-eat favorites to the market.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -233,7 +233,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Canned Goods &amp; Handmade Items</div>
             <h2>DJ Farms</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
             </div>
             <p>DJ Farms brings home canned goods, sauerkraut, jams, jellies, and a few 3D printed items to the market. Jessica Sanders is building something new and local, with a booth full of practical pantry favorites and handmade extras.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -271,7 +271,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Candles &amp; Home Fragrance</div>
             <h2>GodScent Candles</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
             </div>
             <p>GodScent Candles brings handmade soy wax candles and melts made to be clean-burning, non-toxic, and pet friendly. Emma Lawrence's booth adds a polished home-fragrance option for shoppers who like gifts and cozy scents.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -309,7 +309,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Farm Fresh Produce</div>
             <h2>Granada Gardens</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-next">Next market: August 1</span>
             </div>
             <p>Granada Gardens is a self-serve honor system produce stand that stays set up at the market every day through the end of the season, offering fresh seasonal vegetables right in Blue Earth.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -328,7 +328,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Farm Fresh Produce</div>
             <h2>Hagedorn Farms Sweet Corn</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-next">Next market: August 1</span>
             </div>
             <p>Fresh picked, locally grown sweet corn from the Hagedorn family farm. Nothing beats the taste of sweet corn picked at peak ripeness and brought straight to market.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -347,7 +347,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Farm Fresh Produce</div>
             <h2>Hannah's Happy Hens</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
             </div>
             <p>Hannah's Happy Hens brings both chicken eggs and duck eggs to the market, with ducklings planned for later this summer. Hannah says the best part of the market is seeing friends, community members, and students, which makes this booth a great fit for the welcoming local spirit Blue Earth Community Market is built around.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -362,7 +362,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Coffee &amp; Roastery</div>
             <h2>Hygge Coffee</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-next">Next market: August 1</span>
             </div>
             <p>Hygge Coffee brings freshly roasted coffee with rotating origins and blends for local customers. They offer whole bean or ground coffee and recently added cold brew pods to the lineup.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -381,7 +381,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Bakery &amp; Specialty Cakes</div>
             <h2>Impresiones Bonita</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-next">Next market: August 1</span>
             </div>
             <p>Homemade cakes and sweet treats, including tres leches, chocoflan, and Beso de Ángel y tres leches. A delicious stop for rich desserts and celebration-style baking at the market.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -444,7 +444,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Market Hub &amp; Kids</div>
             <h2>Little Ryno Stand</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
             </div>
             <p>Coffee, water, popcorn, peanuts, BECM merch, and DIY crafts from the Myers girls. The pink shed is Grand Central Station for all market questions. First aid kit available here too.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -463,7 +463,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Community Cause &amp; Pet Goods</div>
             <h2>New Chances Humane Society</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-next">Next market: August 1</span>
             </div>
             <p>Faribault County's local animal shelter is bringing handmade bracelets and pens, pet supplies, and information about adoptable animals and shelter programs. Proceeds help support animals in their care and future shelter improvements.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -504,7 +504,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Bakery &amp; Treats</div>
             <h2>Norske Hus Sweets by Joyce</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
             </div>
             <p>Joyce Woodwick is bringing Norske Hus Sweets by Joyce to the market with Scotcharoos, fresh fruit pies, cookies, snack mixes, and other homemade baked goods. Her booth builds on years of local baking experience and a warm Scandinavian-inspired food story.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -573,7 +573,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Homestead Goods</div>
             <h2>Sassy Sprouts Homestead</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-next">Next market: August 8</span>
             </div>
             <p>Home canned goods, eggs, homemade burp cloths, towels, and plush stuffies from a growing small business.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -619,7 +619,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Sweets &amp; Desserts</div>
             <h2>Sweet Escape by Danibel</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-next">Next market: August 1</span>
             </div>
             <p>Sweet Escape by Danibel is a separate vendor at the Blue Earth Community Market. This booth signs up and is seated together with Vita's Tamales, but it is its own business.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -637,7 +637,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Bakery &amp; Treats</div>
             <h2>T's Sweet Treats and More</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
             </div>
             <p>T's Sweet Treats and More is scheduled to join the market with sweet treats and more. Product details will be updated when the vendor provides their current market list.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -670,7 +670,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Bakery &amp; Treats</div>
             <h2>The One N Only Sweet Spot</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-next">Next market: August 1</span>
             </div>
             <p>A delicious variety of baked goods including cookies, cupcakes, brownies, cookie pies, and mini cakes, all made under a tier 1 cottage producer license. Sweet treats for every craving.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -730,7 +730,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Gluten-Free Bakery</div>
             <h2>UnGluten Believable</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
             </div>
             <p>UnGluten Believable is scheduled to join the market with gluten-free baked goods. More product details will be added as they are confirmed.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -763,7 +763,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Food &amp; Specialties</div>
             <h2>Vitas Tamales</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-next">Next market: August 1</span>
             </div>
             <p>Authentic homemade tamales featuring traditional recipes with spicy chicken, spicy pork, cheese, and cheese with jalapeño varieties. Made with love using time-honored methods.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -782,7 +782,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Lemonade &amp; Drinks</div>
             <h2>Yvonne's Lemonade Stand</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: July 25</span>
+                <span class="frequency-badge freq-next">Next market: August 1</span>
             </div>
             <p>Yvonne's Lemonade Stand brings refreshing lemonade to the market, giving shoppers a cold drink stop during Saturday market mornings.</p>
             <div class="pills" style="margin-top: 12px;">
