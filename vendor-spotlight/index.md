@@ -270,7 +270,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Farm Fresh Produce</div>
             <h2>Goemann Produce</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: September 12</span>
+                <span class="frequency-badge freq-next">Next market: August 22</span>
             </div>
             <p>Fresh homegrown vegetables and farm eggs straight from the Goemann family farm. Seasonal offerings include asparagus, rhubarb, tomatoes, cucumbers, green beans, leafy greens, and fresh eggs.</p>
             <div class="pills" style="margin-top: 12px;">
