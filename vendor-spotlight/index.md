@@ -31,42 +31,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
     </div>
 
     <div class="grid-2">
-        <!-- Axel's Fishing Tails -->
-        <div class="card">
-            <div class="section-label">Fishing Gear &amp; Handmade Goods</div>
-            <h2>Axel's Fishing Tails</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Handmade single-hook fishing lures by 11-year-old Axel Boman of Frost, with custom options for bead colors, lure size, and blade size.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Fishing Tackle</span>
-                <span class="tag">Custom Lures</span>
-                <span class="tag">Outdoor</span>
-                <span class="tag">Young Maker</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/profile.php?id=61588735352367" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-            </div>
-        </div>
-        <!-- Beautiful Brushstrokes -->
-        <div class="card">
-            <div class="section-label">Face Painting &amp; Kids Fun</div>
-            <h2>Beautiful Brushstrokes</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Beautiful Brushstrokes is a face painting booth run by Charlotte's daughter, giving kids a fun market day stop with colorful painted designs.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Face Painting</span>
-                <span class="tag">Kids</span>
-                <span class="tag">Young Artist</span>
-                <span class="tag">Family Friendly</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/profile.php?id=61583393258011" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-            </div>
-        </div>
+
         <!-- Blue Earth Cooperative Bakery -->
         <div class="card">
             <div class="section-label">Bakery &amp; Treats</div>
@@ -159,43 +124,8 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=100094912900602" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-        <!-- Cody's Cookie Confections -->
-        <div class="card">
-            <div class="section-label">Bakery &amp; Treats</div>
-            <h2>Cody's Cookie Confections</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Cody's Cookie Confections brings sugar cookies and collectible stickers to the market, with a fun mix of sweet treats and creative extras.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Sugar Cookies</span>
-                <span class="tag">Cookies</span>
-                <span class="tag">Collectible Stickers</span>
-                <span class="tag">Sweet Treats</span>
-                <span class="tag">Creative</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/codyscookieconfections" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-            </div>
-        </div>
-        <!-- Cookies Bars & Jars -->
-        <div class="card">
-            <div class="section-label">Sourdough Bakery</div>
-            <h2>Cookies Bars &amp; Jars</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Kathy Anderson brings naturally leavened sourdough breads to the market, with a focus on rustic homemade loaves baked with care in Blue Earth.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Sourdough Bread</span>
-                <span class="tag">Artisan Loaves</span>
-                <span class="tag">Homemade</span>
-                <span class="tag">Blue Earth</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/profile.php?id=61550759296451" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-            </div>
-        </div>
+
+
         <!-- Creative Cakes By Val -->
         <div class="card">
             <div class="section-label">Bakery &amp; Treats</div>
@@ -250,21 +180,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/share/17VTphirid/?mibextid=wwXIfr" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-        <!-- GodScent Candles -->
-        <div class="card">
-            <div class="section-label">Candles &amp; Home Fragrance</div>
-            <h2>GodScent Candles</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>GodScent Candles brings handmade candles and home fragrance products to the market, adding a warm, giftable booth full of cozy scents and small-batch creations.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Candles</span>
-                <span class="tag">Home Fragrance</span>
-                <span class="tag">Handmade</span>
-                <span class="tag">Giftable</span>
-            </div>
-        </div>
+
         <!-- Goemann Produce -->
         <div class="card">
             <div class="section-label">Farm Fresh Produce</div>
@@ -334,25 +250,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/share/18Pbt96KRY/?mibextid=wwXIfr" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-        <!-- Hagedorn Farms Sweet Corn -->
-        <div class="card">
-            <div class="section-label">Farm Fresh Produce</div>
-            <h2>Hagedorn Farms Sweet Corn</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Fresh picked, locally grown sweet corn from the Hagedorn family farm. Nothing beats the taste of sweet corn picked at peak ripeness and brought straight to market.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Sweet Corn</span>
-                <span class="tag">Fresh Picked</span>
-                <span class="tag">Local Farm</span>
-                <span class="tag">Seasonal</span>
-                <span class="tag">Family Farm</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/hagedornfarms" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-            </div>
-        </div>
+
         <!-- Hannah's Happy Hens -->
         <div class="card">
             <div class="section-label">Farm Fresh Produce</div>
@@ -368,25 +266,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Farm Booth</span>
             </div>
         </div>
-        <!-- Hygge Coffee -->
-        <div class="card">
-            <div class="section-label">Coffee &amp; Roastery</div>
-            <h2>Hygge Coffee</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Hygge Coffee brings freshly roasted coffee with rotating origins and blends for local customers. They offer whole bean or ground coffee and recently added cold brew pods to the lineup.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Fresh Roasted Coffee</span>
-                <span class="tag">Whole Bean</span>
-                <span class="tag">Ground Coffee</span>
-                <span class="tag">Cold Brew Pods</span>
-                <span class="tag">Local Roastery</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/share/1BCUjszMLL/" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-            </div>
-        </div>
+
         <!-- Hemmers Boutique LLC -->
         <div class="card">
             <div class="section-label">Boutique Clothing &amp; Accessories</div>
@@ -464,25 +344,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/profile.php?id=61561246294965" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
-        <!-- Little Ryno Stand -->
-        <div class="card">
-            <div class="section-label">Market Hub &amp; Kids</div>
-            <h2>Little Ryno Stand</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Coffee, water, popcorn, peanuts, BECM merch, and DIY crafts from the Myers girls. The pink shed is Grand Central Station for all market questions. First aid kit available here too.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Coffee</span>
-                <span class="tag">Popcorn</span>
-                <span class="tag">BECM Merch</span>
-                <span class="tag">DIY Crafts</span>
-                <span class="tag">Market Info</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/profile.php?id=61578364805858" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-            </div>
-        </div>
+
         <!-- New Chances Humane Society -->
         <div class="card">
             <div class="section-label">Community Cause &amp; Pet Goods</div>
@@ -540,25 +402,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Homemade</span>
             </div>
         </div>
-        <!-- Ope! Oddities -->
-        <div class="card">
-            <div class="section-label">Curiosities &amp; Collectibles</div>
-            <h2>Ope! Oddities</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Unique oddities, curiosities, crystals, and taxidermy for collectors and the curious. If you've never seen anything quite like it before, you'll probably find it here.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Crystals</span>
-                <span class="tag">Oddities</span>
-                <span class="tag">Taxidermy</span>
-                <span class="tag">Curiosities</span>
-                <span class="tag">Collectibles</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://www.facebook.com/profile.php?id=61563491210803" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
-            </div>
-        </div>
+
         <!-- Passion Design Home -->
         <div class="card">
             <div class="section-label">Handmade Home Decor</div>
@@ -575,24 +419,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <span class="tag">Upcycled</span>
             </div>
         </div>
-        <!-- River Shark Books -->
-        <div class="card">
-            <div class="section-label">Books &amp; Literature</div>
-            <h2>River Shark Books</h2>
-            <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
-            </div>
-            <p>Author Danielle Hayter-Johnson presents River Shark Books, featuring unique stories and literary works. Stop by to discover engaging reads and meet the author in person.</p>
-            <div class="pills" style="margin-top: 12px;">
-                <span class="tag">Books</span>
-                <span class="tag">Author</span>
-                <span class="tag">Literature</span>
-                <span class="tag">Local Author</span>
-            </div>
-            <div style="margin-top: 16px; display: flex; gap: 10px; flex-wrap: wrap;">
-                <a href="https://daniellehayterjohnson.com/" target="_blank" rel="noopener" class="btn btn-primary" style="font-size: 0.82rem; padding: 8px 16px;">Website</a>
-            </div>
-        </div>
+
         <!-- Sassy Sprouts Homestead -->
         <div class="card">
             <div class="section-label">Homestead Goods</div>
