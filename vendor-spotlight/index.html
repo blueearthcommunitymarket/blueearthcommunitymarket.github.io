@@ -72,7 +72,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Bakery &amp; Treats</div>
             <h2>Blue Earth Cooperative Bakery</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 15</span>
+                <span class="frequency-badge freq-next">Next market: August 22</span>
             </div>
             <p>Small batch artisan sourdough breads, focaccia, scones, cookies, cakes, and seasonal kringla, all handmade in Blue Earth. Sales support preservation of our historic cooperative building.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -109,7 +109,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Bakery &amp; Treats</div>
             <h2>Bread and Book Bakery</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 15</span>
+                <span class="frequency-badge freq-next">Next market: August 22</span>
             </div>
             <p>Artisan sourdough breads and baked goods with a creative twist. Features unique "Blind Date with a Book" concept alongside fresh cookies, muffins, and specialty items. Located in Blue Earth.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -145,7 +145,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Mushrooms &amp; Specialty Foods</div>
             <h2>Canna Culture</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-none">Not currently scheduled</span>
+                <span class="frequency-badge freq-next">Next market: September 5</span>
             </div>
             <p>Canna Culture is bringing mushroom kits, infused mushroom honeys, dried mushrooms, drinks, and other specialty mushroom products as they roll out a new expansion.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -201,7 +201,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Bakery &amp; Treats</div>
             <h2>Creative Cakes By Val</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 15</span>
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
             </div>
             <p>Creative Cakes By Val brings baked goods and chocolate dipped treats from Valeria Vargas. This booth joined the 2026 market season with a sweet lineup and has already built repeat customers through earlier market dates.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -270,7 +270,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Farm Fresh Produce</div>
             <h2>Goemann Produce</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 22</span>
+                <span class="frequency-badge freq-next">Next market: August 29</span>
             </div>
             <p>Fresh homegrown vegetables and farm eggs straight from the Goemann family farm. Seasonal offerings include asparagus, rhubarb, tomatoes, cucumbers, green beans, leafy greens, and fresh eggs.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -387,12 +387,26 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
                 <a href="https://www.facebook.com/share/1BCUjszMLL/" target="_blank" rel="noopener" class="btn btn-brown" style="font-size: 0.82rem; padding: 8px 16px;">Facebook</a>
             </div>
         </div>
+        <!-- Hemmers Boutique LLC -->
+        <div class="card">
+            <div class="section-label">Boutique Clothing &amp; Accessories</div>
+            <h2>Hemmers Boutique LLC</h2>
+            <div class="market-frequency">
+                <span class="frequency-badge freq-next">Next market: August 29</span>
+            </div>
+            <p>Hemmers Boutique LLC is joining the Blue Earth Community Market with boutique goods and seasonal finds. More product details will be added as we receive their vendor spotlight information.</p>
+            <div class="pills" style="margin-top: 12px;">
+                <span class="tag">Boutique</span>
+                <span class="tag">Market Vendor</span>
+                <span class="tag">Seasonal Finds</span>
+            </div>
+        </div>
         <!-- Impresiones Bonita -->
         <div class="card">
             <div class="section-label">Bakery &amp; Specialty Cakes</div>
             <h2>Impresiones Bonita</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 15</span>
+                <span class="frequency-badge freq-next">Next market: August 22</span>
             </div>
             <p>Homemade cakes and sweet treats, including tres leches, chocoflan, and Beso de Ángel y tres leches. A delicious stop for rich desserts and celebration-style baking at the market.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -584,7 +598,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Homestead Goods</div>
             <h2>Sassy Sprouts Homestead</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 15</span>
+                <span class="frequency-badge freq-none">Not currently scheduled</span>
             </div>
             <p>Home canned goods, eggs, homemade burp cloths, towels, and plush stuffies from a growing small business.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -643,7 +657,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Sweets &amp; Desserts</div>
             <h2>Sweet Escape by Danibel</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 15</span>
+                <span class="frequency-badge freq-next">Next market: August 22</span>
             </div>
             <p>Sweet Escape by Danibel is a separate vendor at the Blue Earth Community Market. This booth signs up and is seated together with Vita's Tamales, but it is its own business.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -694,7 +708,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Bakery &amp; Treats</div>
             <h2>The One N Only Sweet Spot</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 15</span>
+                <span class="frequency-badge freq-next">Next market: August 29</span>
             </div>
             <p>A delicious variety of baked goods including cookies, cupcakes, brownies, cookie pies, and mini cakes, all made under a tier 1 cottage producer license. Sweet treats for every craving.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -733,7 +747,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Flowers &amp; Vegetables</div>
             <h2>True North Floral</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 15</span>
+                <span class="frequency-badge freq-next">Next market: August 22</span>
             </div>
             <p>Fresh flowers and seasonal vegetables, all grown with purpose. True North Floral supports a garden created specifically for mamas on an adoptive journey and caretakers of all kinds. Bringing beautiful blooms and mobile floral delivery to small towns in southern Minnesota and northern Iowa.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -768,7 +782,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Handmade Goods</div>
             <h2>Unique Items by April</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 15</span>
+                <span class="frequency-badge freq-next">Next market: August 22</span>
             </div>
             <p>Tumblers, 3D items, laser engraved items, and freeze dried candy. A variety of unique handcrafted goods to discover at the market.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -787,7 +801,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Food &amp; Specialties</div>
             <h2>Vitas Tamales</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 15</span>
+                <span class="frequency-badge freq-next">Next market: August 22</span>
             </div>
             <p>Authentic homemade tamales featuring traditional recipes with spicy chicken, spicy pork, cheese, and cheese with jalapeño varieties. Made with love using time-honored methods.</p>
             <div class="pills" style="margin-top: 12px;">
@@ -806,7 +820,7 @@ description: Meet the vendors of the Blue Earth Community Market. Browse what th
             <div class="section-label">Lemonade &amp; Drinks</div>
             <h2>Yvonne's Lemonade Stand</h2>
             <div class="market-frequency">
-                <span class="frequency-badge freq-next">Next market: August 15</span>
+                <span class="frequency-badge freq-next">Next market: August 22</span>
             </div>
             <p>Yvonne's Lemonade Stand brings refreshing lemonade to the market, giving shoppers a cold drink stop during Saturday market mornings.</p>
             <div class="pills" style="margin-top: 12px;">
